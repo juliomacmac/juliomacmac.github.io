@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" stroke-linecap="rect" stroke-linejoin="rect" fill="none" width="603.7391304347826" height="619.048" data-doc-id="d9502b8d-6d99-4930-813a-9aea94c2c7b6" style="width: 100%; height: auto"><style> .activeMouse {pointer-events:all} .activeMouse:hover {cursor:pointer} .highlightedComponent {stroke:#868BFF; stroke-width:2px} text { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; } text::selection { background: none; } [data-unit-id] { visibility: hidden } [data-unit-id="UNIT_MM"] { visibility: visible }</style>
+<g id="scene"><g id="DocumentMainGroup"><g id="BackgroundGroup"><rect x="0" y="0" width="603.7391304347826" height="619.048" fill="#E9E9E9" fill-opacity="1"></rect>
+<text x="322" y="39" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve"></text>
+<text x="365.47826086956525" y="39" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">Layer</text>
+<text x="454.1739130434783" y="39" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">Type</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="39" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">Thk (mm)</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="39" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">Thk (mil)</text>
+</g>
+<g id="af31e553-d946-488a-a099-b3736f57be76:I"><rect x="30" y="62.588" width="250" height="3.20000000000001" fill="#9AAF89" fill-opacity="1"></rect>
+<rect x="30" y="62.588" width="250" height="3.20000000000001" stroke="#707A69" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="af31e553-d946-488a-a099-b3736f57be76:T"><rect x="312" y="44.5" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="53.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="53.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Top Overlay</text>
+<text x="454.1739130434783" y="53.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Overlay</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="53.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve"></text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="53.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve"></text>
+</g>
+<g id="af31e553-d946-488a-a099-b3736f57be76:C"><line x1="280" y1="64.188" x2="312" y2="50.5" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:I"><rect x="30" y="65.78800000000001" width="250" height="3.1999999999999886" fill="#29763C" fill-opacity="1"></rect>
+<rect x="30" y="65.78800000000001" width="250" height="3.1999999999999886" stroke="#1C582B" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:T"><rect x="312" y="56.5" width="261.7391304347826" height="12" fill="#E9E9E9" fill-opacity="1"></rect>
+</g>
+<text x="322" y="65.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="65.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Top Solder</text>
+<text x="454.1739130434783" y="65.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Solder Mask</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="65.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0102</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="65.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.400</text>
+</g>
+<g id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:C"><line x1="280" y1="67.388" x2="312" y2="62.5" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="af9f7488-1667-48db-9a90-970813c4b391:I"><rect x="30" y="68.988" width="250" height="11.024000000000001" fill="#000000" fill-opacity="0"></rect>
+</g>
+<g id="af9f7488-1667-48db-9a90-970813c4b391:T"><rect x="312" y="68.5" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="77.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">1</text>
+<text x="365.47826086956525" y="77.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">SIG1</text>
+<text x="454.1739130434783" y="77.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Signal</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="77.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0350</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="77.5" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">1.378</text>
+</g>
+<g id="af9f7488-1667-48db-9a90-970813c4b391:C"><line x1="280" y1="74.5" x2="312" y2="74.5" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:I"><rect x="30" y="80.012" width="250" height="56" fill="#AA9E81" fill-opacity="1"></rect>
+<rect x="30" y="80.012" width="250" height="56" stroke="#575252" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:T"><rect x="312" y="80.5" width="261.7391304347826" height="52.268" fill="#E9E9E9" fill-opacity="1"></rect>
+</g>
+<text x="322" y="111.012" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="111.012" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Dielectric 2</text>
+<text x="454.1739130434783" y="111.012" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Prepreg</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="111.012" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.1778</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="111.012" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">7.000</text>
+</g>
+<g id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:C"><line x1="280" y1="108.012" x2="312" y2="106.63400000000001" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="c5130380-f558-4ceb-8516-139fe907fda4:I"><rect x="30" y="136.012" width="250" height="5.5120000000000005" fill="#000000" fill-opacity="0"></rect>
+</g>
+<g id="c5130380-f558-4ceb-8516-139fe907fda4:T"><rect x="312" y="132.768" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="141.768" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">2</text>
+<text x="365.47826086956525" y="141.768" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">GND</text>
+<text x="454.1739130434783" y="141.768" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Signal</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="141.768" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0175</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="141.768" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.689</text>
+</g>
+<g id="c5130380-f558-4ceb-8516-139fe907fda4:C"><line x1="280" y1="138.768" x2="312" y2="138.768" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:I"><rect x="30" y="141.524" width="250" height="336.00000000000006" fill="#5E5747" fill-opacity="1"></rect>
+<rect x="30" y="141.524" width="250" height="336.00000000000006" stroke="#4B4537" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:T"><rect x="312" y="144.768" width="261.7391304347826" height="329.51200000000006" fill="#E9E9E9" fill-opacity="1"></rect>
+</g>
+<text x="322" y="312.52400000000006" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="312.52400000000006" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Dielectric 3</text>
+<text x="454.1739130434783" y="312.52400000000006" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Core</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="312.52400000000006" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">1.0668</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="312.52400000000006" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">42.000</text>
+</g>
+<g id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:C"><line x1="280" y1="309.52400000000006" x2="312" y2="309.52400000000006" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="16a396c9-8399-4b70-aaec-0100768d0106:I"><rect x="30" y="477.52400000000006" width="250" height="5.5120000000000005" fill="#000000" fill-opacity="0"></rect>
+</g>
+<g id="16a396c9-8399-4b70-aaec-0100768d0106:T"><rect x="312" y="474.28000000000003" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="483.28000000000003" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">3</text>
+<text x="365.47826086956525" y="483.28000000000003" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">PWR</text>
+<text x="454.1739130434783" y="483.28000000000003" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Signal</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="483.28000000000003" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0175</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="483.28000000000003" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.689</text>
+</g>
+<g id="16a396c9-8399-4b70-aaec-0100768d0106:C"><line x1="280" y1="480.28000000000003" x2="312" y2="480.28000000000003" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:I"><rect x="30" y="483.03600000000006" width="250" height="56" fill="#AA9E81" fill-opacity="1"></rect>
+<rect x="30" y="483.03600000000006" width="250" height="56" stroke="#575252" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:T"><rect x="312" y="486.28000000000003" width="261.7391304347826" height="52.26799999999997" fill="#E9E9E9" fill-opacity="1"></rect>
+</g>
+<text x="322" y="514.0360000000001" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="514.0360000000001" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Dielectric 1</text>
+<text x="454.1739130434783" y="514.0360000000001" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Prepreg</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="514.0360000000001" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.1778</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="514.0360000000001" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">7.000</text>
+</g>
+<g id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:C"><line x1="280" y1="511.03600000000006" x2="312" y2="512.414" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:I"><rect x="30" y="539.0360000000001" width="250" height="11.023999999999887" fill="#000000" fill-opacity="0"></rect>
+</g>
+<g id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:T"><rect x="312" y="538.548" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="547.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">4</text>
+<text x="365.47826086956525" y="547.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">SIG2</text>
+<text x="454.1739130434783" y="547.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Signal</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="547.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0350</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="547.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">1.378</text>
+</g>
+<g id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:C"><line x1="280" y1="544.548" x2="312" y2="544.548" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="ca7962cc-cf09-4766-bcda-adf3526e6683:I"><rect x="30" y="550.06" width="250" height="3.2000000000000455" fill="#29763C" fill-opacity="1"></rect>
+<rect x="30" y="550.06" width="250" height="3.2000000000000455" stroke="#1C582B" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="ca7962cc-cf09-4766-bcda-adf3526e6683:T"><rect x="312" y="550.548" width="261.7391304347826" height="12" fill="#E9E9E9" fill-opacity="1"></rect>
+</g>
+<text x="322" y="559.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="559.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Bottom Solder</text>
+<text x="454.1739130434783" y="559.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Solder Mask</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="559.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.0102</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="559.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">0.400</text>
+</g>
+<g id="ca7962cc-cf09-4766-bcda-adf3526e6683:C"><line x1="280" y1="551.66" x2="312" y2="556.548" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:I"><rect x="30" y="553.26" width="250" height="3.2000000000000455" fill="#9AAF89" fill-opacity="1"></rect>
+<rect x="30" y="553.26" width="250" height="3.2000000000000455" stroke="#707A69" stroke-width="1px" vector-effect="non-scaling-stroke"></rect>
+</g>
+<g id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:T"><rect x="312" y="562.548" width="261.7391304347826" height="12" fill="#DADADA" fill-opacity="1"></rect>
+</g>
+<text x="322" y="571.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">-</text>
+<text x="365.47826086956525" y="571.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Bottom Overlay</text>
+<text x="454.1739130434783" y="571.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve">Overlay</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="571.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve"></text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="571.548" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#080A0A" font-weight="normal" xml:space="preserve"></text>
+</g>
+<g id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:C"><line x1="280" y1="554.86" x2="312" y2="568.548" stroke="#9E9E9E" stroke-width="1px" vector-effect="non-scaling-stroke"></line>
+</g>
+<polygon points="37,68.988 73,68.988 73,80.012 65,80.012 65,539.0360000000001 73,539.0360000000001 73,550.06 37,550.06 37,539.0360000000001 45,539.0360000000001 45,80.012 37,80.012 37,68.988" fill="#CDB475" fill-opacity="1"></polygon><polygon points="50,68.988 60,68.988 60,550.06 50,550.06 50,68.988" fill="#E8C8A4" fill-opacity="1"></polygon><polygon points="50,68.988 60,68.988 60,550.06 50,550.06 50,68.988" stroke="#5C5134" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><g id="32bae674-dbe0-47df-9346-dbb95b1152ed"><polygon points="37,68.988 73,68.988 73,80.012 65,80.012 65,539.0360000000001 73,539.0360000000001 73,550.06 37,550.06 37,539.0360000000001 45,539.0360000000001 45,80.012 37,80.012 37,68.988" stroke="#5C5134" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon></g>
+<polygon points="99,68.988 111,68.988 114,80.012 96,80.012 99,68.988" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="99,68.988 111,68.988 114,80.012 96,80.012 99,68.988" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="99,136.012 111,136.012 114,141.524 96,141.524 99,136.012" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="99,136.012 111,136.012 114,141.524 96,141.524 99,136.012" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="99,477.52400000000006 111,477.52400000000006 114,483.03600000000006 96,483.03600000000006 99,477.52400000000006" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="99,477.52400000000006 111,477.52400000000006 114,483.03600000000006 96,483.03600000000006 99,477.52400000000006" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="99,550.06 111,550.06 114,539.0360000000001 96,539.0360000000001 99,550.06" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="99,550.06 111,550.06 114,539.0360000000001 96,539.0360000000001 99,550.06" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="149,68.988 161,68.988 164,80.012 146,80.012 149,68.988" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="149,68.988 161,68.988 164,80.012 146,80.012 149,68.988" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="149,136.012 161,136.012 164,141.524 146,141.524 149,136.012" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="149,136.012 161,136.012 164,141.524 146,141.524 149,136.012" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="149,477.52400000000006 161,477.52400000000006 164,483.03600000000006 146,483.03600000000006 149,477.52400000000006" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="149,477.52400000000006 161,477.52400000000006 164,483.03600000000006 146,483.03600000000006 149,477.52400000000006" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="149,550.06 161,550.06 164,539.0360000000001 146,539.0360000000001 149,550.06" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="149,550.06 161,550.06 164,539.0360000000001 146,539.0360000000001 149,550.06" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="199,68.988 211,68.988 214,80.012 196,80.012 199,68.988" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="199,68.988 211,68.988 214,80.012 196,80.012 199,68.988" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="199,136.012 211,136.012 214,141.524 196,141.524 199,136.012" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="199,136.012 211,136.012 214,141.524 196,141.524 199,136.012" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="199,477.52400000000006 211,477.52400000000006 214,483.03600000000006 196,483.03600000000006 199,477.52400000000006" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="199,477.52400000000006 211,477.52400000000006 214,483.03600000000006 196,483.03600000000006 199,477.52400000000006" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="199,550.06 211,550.06 214,539.0360000000001 196,539.0360000000001 199,550.06" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="199,550.06 211,550.06 214,539.0360000000001 196,539.0360000000001 199,550.06" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="249,68.988 261,68.988 264,80.012 246,80.012 249,68.988" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="249,68.988 261,68.988 264,80.012 246,80.012 249,68.988" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="249,136.012 261,136.012 264,141.524 246,141.524 249,136.012" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="249,136.012 261,136.012 264,141.524 246,141.524 249,136.012" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="249,477.52400000000006 261,477.52400000000006 264,483.03600000000006 246,483.03600000000006 249,477.52400000000006" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="249,477.52400000000006 261,477.52400000000006 264,483.03600000000006 246,483.03600000000006 249,477.52400000000006" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><polygon points="249,550.06 261,550.06 264,539.0360000000001 246,539.0360000000001 249,550.06" fill="#CDA86C" fill-opacity="1"></polygon><polygon points="249,550.06 261,550.06 264,539.0360000000001 246,539.0360000000001 249,550.06" stroke="#7E6E53" stroke-width="1px" vector-effect="non-scaling-stroke"></polygon><text x="322" y="585.048" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve"></text>
+<text x="365.47826086956525" y="585.048" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve"></text>
+<text x="454.1739130434783" y="585.048" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">Total</text>
+<g data-unit-id="UNIT_MM"><text x="532.4347826086957" y="585.048" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">1.5477</text>
+</g>
+<g data-unit-id="UNIT_MIL"><text x="532.4347826086957" y="585.048" font-size="8px" font-family="Inter, Helvetica, Arial, sans-serif" fill="#727272" font-weight="normal" xml:space="preserve">60.934</text>
+</g>
+</g>
+</g>
+<g id="sceneSelectionMask"></g><g id="sceneSelection"></g><g id="sceneHighlight"></g><g id="sceneActiveObjects"><g data_id="af31e553-d946-488a-a099-b3736f57be76" data_type="1"><rect x="30" y="62.5880012512207" width="250" height="3.200000762939453" class="activeMouse" data_id="af31e553-d946-488a-a099-b3736f57be76:I" data_type="2"></rect><rect x="312" y="44.5" width="261.7391357421875" height="12" class="activeMouse" data_id="af31e553-d946-488a-a099-b3736f57be76:T" data_type="3"></rect><rect x="277" y="47.5" width="38" height="19.688003540039062" class="activeMouse" data_id="af31e553-d946-488a-a099-b3736f57be76:C" data_type="4"></rect></g><g data_id="0c9fb901-97ec-46d2-8ea6-545a174d69ad" data_type="1"><rect x="30" y="65.78800201416016" width="250" height="3.1999969482421875" class="activeMouse" data_id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:I" data_type="2"></rect><rect x="312" y="56.5" width="261.7391357421875" height="12" class="activeMouse" data_id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:T" data_type="3"></rect><rect x="277" y="59.5" width="38" height="10.88800048828125" class="activeMouse" data_id="0c9fb901-97ec-46d2-8ea6-545a174d69ad:C" data_type="4"></rect></g><g data_id="af9f7488-1667-48db-9a90-970813c4b391" data_type="1"><rect x="30" y="68.98799896240234" width="250" height="11.02400016784668" class="activeMouse" data_id="af9f7488-1667-48db-9a90-970813c4b391:I" data_type="2"></rect><rect x="312" y="68.5" width="261.7391357421875" height="12" class="activeMouse" data_id="af9f7488-1667-48db-9a90-970813c4b391:T" data_type="3"></rect><rect x="277" y="71.5" width="38" height="6" class="activeMouse" data_id="af9f7488-1667-48db-9a90-970813c4b391:C" data_type="4"></rect></g><g data_id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa" data_type="1"><rect x="30" y="80.01200103759766" width="250" height="55.99999237060547" class="activeMouse" data_id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:I" data_type="2"></rect><rect x="312" y="80.5" width="261.7391357421875" height="52.26799774169922" class="activeMouse" data_id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:T" data_type="3"></rect><rect x="277" y="103.63400268554688" width="38" height="7.377998352050781" class="activeMouse" data_id="e3844cf7-0d38-4929-80e5-0e1cef3a0dfa:C" data_type="4"></rect></g><g data_id="c5130380-f558-4ceb-8516-139fe907fda4" data_type="1"><rect x="30" y="136.01199340820312" width="250" height="5.51200008392334" class="activeMouse" data_id="c5130380-f558-4ceb-8516-139fe907fda4:I" data_type="2"></rect><rect x="312" y="132.76800537109375" width="261.7391357421875" height="12" class="activeMouse" data_id="c5130380-f558-4ceb-8516-139fe907fda4:T" data_type="3"></rect><rect x="277" y="135.76800537109375" width="38" height="6" class="activeMouse" data_id="c5130380-f558-4ceb-8516-139fe907fda4:C" data_type="4"></rect></g><g data_id="2ef29046-2b86-4ab3-940a-aad95beeeaf6" data_type="1"><rect x="30" y="141.5240020751953" width="250" height="336" class="activeMouse" data_id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:I" data_type="2"></rect><rect x="312" y="144.76800537109375" width="261.7391357421875" height="329.51202392578125" class="activeMouse" data_id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:T" data_type="3"></rect><rect x="277" y="306.52398681640625" width="38" height="6" class="activeMouse" data_id="2ef29046-2b86-4ab3-940a-aad95beeeaf6:C" data_type="4"></rect></g><g data_id="16a396c9-8399-4b70-aaec-0100768d0106" data_type="1"><rect x="30" y="477.5240173339844" width="250" height="5.51200008392334" class="activeMouse" data_id="16a396c9-8399-4b70-aaec-0100768d0106:I" data_type="2"></rect><rect x="312" y="474.27996826171875" width="261.7391357421875" height="12" class="activeMouse" data_id="16a396c9-8399-4b70-aaec-0100768d0106:T" data_type="3"></rect><rect x="277" y="477.2799987792969" width="38" height="6" class="activeMouse" data_id="16a396c9-8399-4b70-aaec-0100768d0106:C" data_type="4"></rect></g><g data_id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00" data_type="1"><rect x="30" y="483.0359802246094" width="250" height="56.000030517578125" class="activeMouse" data_id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:I" data_type="2"></rect><rect x="312" y="486.27996826171875" width="261.7391357421875" height="52.26799774169922" class="activeMouse" data_id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:T" data_type="3"></rect><rect x="277" y="508.0360107421875" width="38" height="7.37799072265625" class="activeMouse" data_id="d3cb9c7b-b5dc-460c-82e9-faa00f2bda00:C" data_type="4"></rect></g><g data_id="8dedfe8f-186b-49cb-a955-ef1e73b6d539" data_type="1"><rect x="30" y="539.0360107421875" width="250" height="11.02400016784668" class="activeMouse" data_id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:I" data_type="2"></rect><rect x="312" y="538.5479736328125" width="261.7391357421875" height="12" class="activeMouse" data_id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:T" data_type="3"></rect><rect x="277" y="541.5479736328125" width="38" height="6" class="activeMouse" data_id="8dedfe8f-186b-49cb-a955-ef1e73b6d539:C" data_type="4"></rect></g><g data_id="ca7962cc-cf09-4766-bcda-adf3526e6683" data_type="1"><rect x="30" y="550.0599975585938" width="250" height="3.20001220703125" class="activeMouse" data_id="ca7962cc-cf09-4766-bcda-adf3526e6683:I" data_type="2"></rect><rect x="312" y="550.5479736328125" width="261.7391357421875" height="12" class="activeMouse" data_id="ca7962cc-cf09-4766-bcda-adf3526e6683:T" data_type="3"></rect><rect x="277" y="548.6599731445312" width="38" height="10.88800048828125" class="activeMouse" data_id="ca7962cc-cf09-4766-bcda-adf3526e6683:C" data_type="4"></rect></g><g data_id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08" data_type="1"><rect x="30" y="553.260009765625" width="250" height="3.20001220703125" class="activeMouse" data_id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:I" data_type="2"></rect><rect x="312" y="562.5479736328125" width="261.7391357421875" height="12" class="activeMouse" data_id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:T" data_type="3"></rect><rect x="277" y="551.8599853515625" width="38" height="19.68798828125" class="activeMouse" data_id="bd7c433e-7a90-44e4-bbb9-e77a3f59db08:C" data_type="4"></rect></g><rect x="37" y="68.98799896240234" width="36" height="481.0719909667969" class="activeMouse" data_id="32bae674-dbe0-47df-9346-dbb95b1152ed" data_type="5"></rect></g></g>
+<svg id="lsm-document-viewer-comment-overlay" width="100%" height="100%" style="position: absolute; left: 0px; top: 0px; pointer-events: none; z-index: 0; overflow: visible;" data-v-app=""><defs><filter id="filter-comment-icon-full-d" x="4" y="5" width="40" height="40" filter-units="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset dy="1"></feOffset><feGaussianBlur std-deviation="2"></feGaussianBlur><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.48 0"></feColorMatrix><feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend><feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend></filter></defs></svg></svg>
