@@ -1,0 +1,338 @@
+[
+  {
+    "id": "pdm",
+    "name": "Power Distribution Module",
+    "short": "PDM",
+    "revision": "T11",
+    "summary": "Electronic power distribution for the Formula SAE vehicle.",
+    "role": "Schematic and PCB design",
+    "contribution": "I designed the schematic and PCB, and guided the firmware logic. Another team member implemented the firmware. The board was manufactured, tested, and installed in the vehicle.",
+    "description": "The PDM brings high-side switching, current-measurement circuitry, and CAN communication onto a four-layer board. Its copper stack is SIG1 / GND / PWR / SIG2, with the ground and power layers between the outer signal layers.",
+    "facts": [
+      [
+        "PCB",
+        "4 copper layers · 1.5477 mm stackup"
+      ],
+      [
+        "Controller",
+        "STM32G4A1CET6"
+      ],
+      [
+        "Switching",
+        "VNQ9025AJTR high-side switches"
+      ],
+      [
+        "Build status",
+        "Manufactured, tested and installed"
+      ]
+    ],
+    "sheets": [
+      [
+        "top-level",
+        "System overview"
+      ],
+      [
+        "power-supply",
+        "Power supply"
+      ],
+      [
+        "mcu",
+        "Microcontroller"
+      ],
+      [
+        "high-side-switches",
+        "High-side switches"
+      ],
+      [
+        "can-leds",
+        "CAN and LEDs"
+      ],
+      [
+        "measurement",
+        "Measurement"
+      ],
+      [
+        "connectors",
+        "Connectors"
+      ]
+    ],
+    "url": "ADE08034-057B-4BBC-BB10-CDD65471A688"
+  },
+  {
+    "id": "display",
+    "name": "ShieldESP display",
+    "short": "ShieldESP",
+    "revision": "ShieldEsp",
+    "summary": "An ESP32-based board for the vehicle display.",
+    "role": "Hardware development and display interface",
+    "contribution": "I was a main contributor to the display project, working on the ShieldESP hardware and developing the display’s user interface.",
+    "description": "ShieldESP connects an ESP32 module to the display and the vehicle CAN bus. Separate schematic sheets cover the controller, power supply, and connectors.",
+    "facts": [
+      [
+        "Controller",
+        "NODEMCU-32S / ESP32"
+      ],
+      [
+        "Communication",
+        "L9616-TR CAN transceiver"
+      ],
+      [
+        "Connections",
+        "Display, touch and SD chip-select signals"
+      ],
+      [
+        "Interface work",
+        "Display front end"
+      ]
+    ],
+    "sheets": [
+      [
+        "controller",
+        "ESP32 and CAN"
+      ],
+      [
+        "power-supply",
+        "Power supply"
+      ],
+      [
+        "connectors",
+        "Display and vehicle connectors"
+      ]
+    ],
+    "note": "The images on this page show the PCB. They are not screenshots of the display interface.",
+    "url": "6F98271B-0BBC-41CE-965F-49D0948DF32F"
+  },
+  {
+    "id": "bspd",
+    "name": "BSPD",
+    "short": "BSPD",
+    "revision": "TX",
+    "summary": "Hardware logic for brake and power plausibility checks.",
+    "role": "Schematic and PCB design",
+    "contribution": "I personally designed the BSPD schematic and PCB.",
+    "description": "The circuit compares the brake and power-related input signals, combines the results using discrete logic, and drives a shutdown relay. The design also includes timing, reset, and protection circuitry.",
+    "facts": [
+      [
+        "Analog circuitry",
+        "LM324DT comparison stages"
+      ],
+      [
+        "Logic",
+        "NAND/NOR gates and HCF4013 latch"
+      ],
+      [
+        "Timing",
+        "TS555-based circuit"
+      ],
+      [
+        "Output",
+        "Relay shutdown interface"
+      ]
+    ],
+    "sheets": [
+      [
+        "schematic",
+        "BSPD logic and analog circuitry"
+      ],
+      [
+        "connectors",
+        "Connectors"
+      ],
+      [
+        "protection",
+        "Protection circuit"
+      ]
+    ],
+    "url": "308BBD17-99BE-47CE-95A6-1CAAE86B2FDB",
+    "earlier": [
+      [
+        "T09 BSPD",
+        "2D25D37E-A41C-48F7-8179-067D61A0F96F"
+      ]
+    ]
+  },
+  {
+    "id": "bss",
+    "name": "BSS",
+    "short": "BSS",
+    "revision": "TX",
+    "summary": "BMS and insulation-monitor signals connected to the shutdown circuit.",
+    "role": "Design review and redesign",
+    "contribution": "I reviewed and contributed redesign work to this board as part of the team’s electrical hardware development.",
+    "description": "The BSS has separate BMS and IMD signal paths. Its schematic includes optocouplers, fault latches, timing circuits, relay outputs, and a reset-switch interface.",
+    "facts": [
+      [
+        "Inputs",
+        "BMS and IMD signals"
+      ],
+      [
+        "Logic",
+        "HCF4013 latches and discrete gates"
+      ],
+      [
+        "Timing",
+        "TS555 circuits"
+      ],
+      [
+        "Connections",
+        "Shutdown, reset and panel signals"
+      ]
+    ],
+    "sheets": [
+      [
+        "bms",
+        "BMS path"
+      ],
+      [
+        "imd",
+        "IMD path"
+      ],
+      [
+        "reset-switch",
+        "Reset switch"
+      ],
+      [
+        "connectors",
+        "Connectors"
+      ]
+    ],
+    "url": "26FD4D1E-0835-48E9-B1D7-7E16D30AEBCD",
+    "earlier": [
+      [
+        "T09 BSS",
+        "06CC9CC9-15DC-4DD6-B544-298CA07EE1CC"
+      ]
+    ]
+  },
+  {
+    "id": "precharge",
+    "name": "Precharge",
+    "short": "Precharge",
+    "revision": "TX · PreCarga",
+    "summary": "Voltage comparison and relay sequencing for precharge.",
+    "role": "Design review and redesign",
+    "contribution": "I reviewed and contributed redesign work to the precharge board, including its integration with the vehicle electrical system.",
+    "description": "The design compares the DC bus voltage with a reference derived from the battery voltage. It uses relay control and delay circuitry to sequence the precharge path and its bypass.",
+    "facts": [
+      [
+        "Sensing",
+        "Battery and DC bus voltage dividers"
+      ],
+      [
+        "Comparison",
+        "LM324DT stages"
+      ],
+      [
+        "Control",
+        "Optocouplers, relay drivers and delay circuitry"
+      ],
+      [
+        "Documentation",
+        "Precharge, connectors and PCSHUT sheets"
+      ]
+    ],
+    "sheets": [
+      [
+        "schematic",
+        "Precharge circuit"
+      ],
+      [
+        "connectors",
+        "Connectors"
+      ],
+      [
+        "pc-shut",
+        "PCSHUT"
+      ]
+    ],
+    "url": "E7AA576B-AC85-4072-A4FC-8F389D7EAB8E",
+    "earlier": [
+      [
+        "T09 PreCarga",
+        "1DAFFF47-747D-4C78-AF96-E4FF6663FCA7"
+      ]
+    ]
+  },
+  {
+    "id": "hv",
+    "name": "HV interface board",
+    "short": "HV board",
+    "revision": "T09 · HV2",
+    "summary": "Vehicle interfaces for high-voltage signals and discharge circuitry.",
+    "role": "Design review and redesign",
+    "contribution": "I reviewed and contributed redesign work to the HV board as part of the team’s electrical hardware development.",
+    "description": "This board connects several vehicle electrical functions. The available sheets cover connectors, discharge circuitry, TSLC, and the IR converter circuit.",
+    "facts": [
+      [
+        "Interfaces",
+        "HV, TSMP, TSAL and vehicle connectors"
+      ],
+      [
+        "Circuitry",
+        "Discharge and relay interfaces"
+      ],
+      [
+        "Additional sheets",
+        "TSLC and Conversor IRs"
+      ],
+      [
+        "Project shown",
+        "T09 – HV2"
+      ]
+    ],
+    "sheets": [
+      [
+        "connectors",
+        "Connectors"
+      ],
+      [
+        "discharge",
+        "Discharge"
+      ],
+      [
+        "tslc",
+        "TSLC"
+      ],
+      [
+        "ir-converter",
+        "Conversor IRs"
+      ]
+    ],
+    "url": "CCD1E5C7-C378-4975-94F7-97DF5CDD68AA"
+  },
+  {
+    "id": "ssi",
+    "name": "SSI indicator",
+    "short": "SSI",
+    "revision": "TX · 24 V Rev2",
+    "summary": "A red and green LED indicator board with BMS and IMD inputs.",
+    "role": "Hardware development contribution",
+    "contribution": "I contributed to this board as part of the team’s electrical hardware development.",
+    "description": "The SSI schematic shows red and green LED groups, transistor drive circuits, BMS and IMD panel signals, and a 5 V regulator supplied from 24 V.",
+    "facts": [
+      [
+        "Supply",
+        "24 V input"
+      ],
+      [
+        "Regulation",
+        "L78L05ABUTR 5 V regulator"
+      ],
+      [
+        "Indication",
+        "Red and green LED groups"
+      ],
+      [
+        "Signals",
+        "BMS_PAINEL and IMD_PAINEL"
+      ]
+    ],
+    "sheets": [
+      [
+        "schematic",
+        "LEDs, drivers and connections"
+      ]
+    ],
+    "url": "C51F19F7-5B86-4731-B592-E3FE94428AC3"
+  }
+]
