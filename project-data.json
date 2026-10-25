@@ -25,38 +25,7 @@
         "Build status",
         "Manufactured, tested and installed"
       ]
-    ],
-    "sheets": [
-      [
-        "top-level",
-        "System overview"
-      ],
-      [
-        "power-supply",
-        "Power supply"
-      ],
-      [
-        "mcu",
-        "Microcontroller"
-      ],
-      [
-        "high-side-switches",
-        "High-side switches"
-      ],
-      [
-        "can-leds",
-        "CAN and LEDs"
-      ],
-      [
-        "measurement",
-        "Measurement"
-      ],
-      [
-        "connectors",
-        "Connectors"
-      ]
-    ],
-    "url": "ADE08034-057B-4BBC-BB10-CDD65471A688"
+    ]
   },
   {
     "id": "display",
@@ -85,22 +54,7 @@
         "Display front end"
       ]
     ],
-    "sheets": [
-      [
-        "controller",
-        "ESP32 and CAN"
-      ],
-      [
-        "power-supply",
-        "Power supply"
-      ],
-      [
-        "connectors",
-        "Display and vehicle connectors"
-      ]
-    ],
-    "note": "The images on this page show the PCB. They are not screenshots of the display interface.",
-    "url": "6F98271B-0BBC-41CE-965F-49D0948DF32F"
+    "note": "The images on this page show the PCB. They are not screenshots of the display interface."
   },
   {
     "id": "bspd",
@@ -127,27 +81,6 @@
       [
         "Output",
         "Relay shutdown interface"
-      ]
-    ],
-    "sheets": [
-      [
-        "schematic",
-        "BSPD logic and analog circuitry"
-      ],
-      [
-        "connectors",
-        "Connectors"
-      ],
-      [
-        "protection",
-        "Protection circuit"
-      ]
-    ],
-    "url": "308BBD17-99BE-47CE-95A6-1CAAE86B2FDB",
-    "earlier": [
-      [
-        "T09 BSPD",
-        "2D25D37E-A41C-48F7-8179-067D61A0F96F"
       ]
     ]
   },
@@ -177,31 +110,6 @@
         "Connections",
         "Shutdown, reset and panel signals"
       ]
-    ],
-    "sheets": [
-      [
-        "bms",
-        "BMS path"
-      ],
-      [
-        "imd",
-        "IMD path"
-      ],
-      [
-        "reset-switch",
-        "Reset switch"
-      ],
-      [
-        "connectors",
-        "Connectors"
-      ]
-    ],
-    "url": "26FD4D1E-0835-48E9-B1D7-7E16D30AEBCD",
-    "earlier": [
-      [
-        "T09 BSS",
-        "06CC9CC9-15DC-4DD6-B544-298CA07EE1CC"
-      ]
     ]
   },
   {
@@ -229,27 +137,6 @@
       [
         "Documentation",
         "Precharge, connectors and PCSHUT sheets"
-      ]
-    ],
-    "sheets": [
-      [
-        "schematic",
-        "Precharge circuit"
-      ],
-      [
-        "connectors",
-        "Connectors"
-      ],
-      [
-        "pc-shut",
-        "PCSHUT"
-      ]
-    ],
-    "url": "E7AA576B-AC85-4072-A4FC-8F389D7EAB8E",
-    "earlier": [
-      [
-        "T09 PreCarga",
-        "1DAFFF47-747D-4C78-AF96-E4FF6663FCA7"
       ]
     ]
   },
@@ -279,26 +166,7 @@
         "Project shown",
         "T09 – HV2"
       ]
-    ],
-    "sheets": [
-      [
-        "connectors",
-        "Connectors"
-      ],
-      [
-        "discharge",
-        "Discharge"
-      ],
-      [
-        "tslc",
-        "TSLC"
-      ],
-      [
-        "ir-converter",
-        "Conversor IRs"
-      ]
-    ],
-    "url": "CCD1E5C7-C378-4975-94F7-97DF5CDD68AA"
+    ]
   },
   {
     "id": "ssi",
@@ -326,13 +194,6 @@
         "Signals",
         "BMS_PAINEL and IMD_PAINEL"
       ]
-    ],
-    "sheets": [
-      [
-        "schematic",
-        "LEDs, drivers and connections"
-      ]
-    ],
-    "url": "C51F19F7-5B86-4731-B592-E3FE94428AC3"
+    ]
   }
 ]
