@@ -1,0 +1,1673 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" stroke-linecap="round" stroke-linejoin="round" fill="none" width="1000" height="600" data-doc-id="ZPBAUHQD" data-doc-ver="2" viewBox="0 0 1000 600" style="width: 100%; height: 100%; opacity: 1;"><style> .activeMouse {pointer-events:all} .activeMouse:hover {cursor:pointer} .highlightedComponent {stroke:#868BFF; stroke-width:2px} text { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; } text::selection { background: none; } [data-variant-id] { visibility: hidden } .activeMouse[data-variant-id] { pointer-events:none } [data-variant-id~="No_Variant_Unique_Id"] { visibility: visible } .activeMouse[data-variant-id~="No_Variant_Unique_Id"] { pointer-events:all }</style>
+<g id="scene"><defs><mask id="scene_selection_mask" maskContentUnits="userSpaceOnUse"><rect width="1000" height="600" fill="white" opacity="0.3"></rect><path fill="black" d=""></path></mask></defs><g id="DocumentMainGroup"><g id="BackgroundGroup"><rect x="0" y="0" width="1000" height="600" fill="#E3E3E3" fill-opacity="1"></rect>
+</g>
+<g id="ZPBAUHQD"><rect x="0" y="0" width="1000" height="600" fill="#FFFCF8" fill-opacity="1"></rect>
+<rect x="0" y="0" width="1000" height="600" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></rect>
+<rect x="20" y="20" width="960" height="560" fill="#FFFCF8" fill-opacity="1"></rect>
+<rect x="20" y="20" width="960" height="560" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></rect>
+<line x1="166.6667" y1="600" x2="166.6667" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="79.92064" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+<line x1="166.6667" y1="0" x2="166.6667" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="79.92064" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+<line x1="333.3333" y1="600" x2="333.3333" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="245.8598" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+<line x1="333.3333" y1="0" x2="333.3333" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="245.8598" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+<line x1="500" y1="600" x2="500" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="412.9012" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">3</text>
+<line x1="500" y1="0" x2="500" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="412.9012" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">3</text>
+<line x1="666.6666" y1="600" x2="666.6666" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="579.1313" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">4</text>
+<line x1="666.6666" y1="0" x2="666.6666" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="579.1313" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">4</text>
+<line x1="833.3333" y1="600" x2="833.3333" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="746.0802" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">5</text>
+<line x1="833.3333" y1="0" x2="833.3333" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="746.0802" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">5</text>
+<line x1="999.9999" y1="600" x2="999.9999" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="912.4999" y="594" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">6</text>
+<line x1="999.9999" y1="0" x2="999.9999" y2="20" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="912.4999" y="14" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">6</text>
+<line x1="0" y1="450" x2="20" y2="450" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="6.91138" y="529" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">D</text>
+<line x1="1000" y1="450" x2="980" y2="450" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="986.9114" y="529" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">D</text>
+<line x1="0" y1="300" x2="20" y2="300" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="7.14506" y="379" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">C</text>
+<line x1="1000" y1="300" x2="980" y2="300" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="987.145" y="379" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">C</text>
+<line x1="0" y1="150" x2="20" y2="150" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="7.23545" y="229" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">B</text>
+<line x1="1000" y1="150" x2="980" y2="150" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="987.2354" y="229" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">B</text>
+<line x1="0" y1="0" x2="20" y2="0" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="6.79012" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">A</text>
+<line x1="1000" y1="0" x2="980" y2="0" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="986.7901" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">A</text>
+<line x1="630" y1="500" x2="980" y2="500" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="630" y1="530" x2="980" y2="530" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="630" y1="560" x2="980" y2="560" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="630" y1="570" x2="980" y2="570" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="630" y1="500" x2="630" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="880" y1="530" x2="880" y2="560" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="680" y1="530" x2="680" y2="560" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="830" y1="560" x2="830" y2="580" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<text x="635" y="509" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Title</text>
+<text x="685" y="539" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Number</text>
+<text x="885" y="539" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Revision</text>
+<text x="635" y="539" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Size</text>
+<text x="640" y="554" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">A4</text>
+<text x="635" y="569" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Date:</text>
+<text x="680" y="569" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">9/07/2026</text>
+<text x="835" y="569" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Sheet   of</text>
+<text x="635" y="579" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">File:</text>
+<text x="680" y="579" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Utilitys.SchDoc</text>
+<text x="835" y="579" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">Drawn By:</text>
+<g id="DocumentItemsGroup"><g id="RSGAVHWQ"><text x="752.9564" y="52" font-size="16px" font-family="Times New Roman" fill="#000000" xml:space="preserve">CAN</text>
+</g>
+<g id="IIAWNNNX"><line x1="610" y1="220" x2="630" y2="220" stroke="#800000" stroke-width="1px"></line>
+<line x1="610" y1="220" x2="620" y2="230" stroke="#800000" stroke-width="1px"></line>
+<line x1="630" y1="220" x2="620" y2="230" stroke="#800000" stroke-width="1px"></line>
+<text x="610.3902" y="239" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="620" y1="210" x2="620" y2="220" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="RJBRXZOF"><rect x="580" y="35" width="385" height="360" stroke="#000000" stroke-width="1px"></rect>
+</g>
+<g id="ZQTLOLMV"><rect x="830" y="315" width="100" height="45" fill="#FFFF80" fill-opacity="1"></rect>
+<rect x="830" y="315" width="100" height="45" stroke="#000000" stroke-width="1px"></rect>
+<g> <clipPath id="ClipRect1"> <rect x="831" y="316.0001" width="97.99994" height="42.99988"></rect></clipPath><text clip-path="url(#ClipRect1)" x="831" y="325.0001" font-size="9px" font-family="Times New Roman" fill="#000000" font-weight="bold" xml:space="preserve">- Jumper entre CanH e </text>
+</g><g> <clipPath id="ClipRect2"> <rect x="831" y="316.0001" width="97.99994" height="42.99988"></rect></clipPath><text clip-path="url(#ClipRect2)" x="831" y="335.0001" font-size="9px" font-family="Times New Roman" fill="#000000" font-weight="bold" xml:space="preserve">CanL, para add ou não o </text>
+</g><g> <clipPath id="ClipRect3"> <rect x="831" y="316.0001" width="97.99994" height="42.99988"></rect></clipPath><text clip-path="url(#ClipRect3)" x="831" y="345.0001" font-size="9px" font-family="Times New Roman" fill="#000000" font-weight="bold" xml:space="preserve">resistor terminal</text>
+</g></g>
+<g id="CRKJIGZK"><line x1="805" y1="230" x2="825" y2="230" stroke="#800000" stroke-width="1px"></line>
+<line x1="805" y1="230" x2="815" y2="240" stroke="#800000" stroke-width="1px"></line>
+<line x1="825" y1="230" x2="815" y2="240" stroke="#800000" stroke-width="1px"></line>
+<text x="805.3902" y="249" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="815" y1="220" x2="815" y2="230" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="TRJBMXQS"><line x1="845" y1="230" x2="865" y2="230" stroke="#800000" stroke-width="1px"></line>
+<line x1="845" y1="230" x2="855" y2="240" stroke="#800000" stroke-width="1px"></line>
+<line x1="865" y1="230" x2="855" y2="240" stroke="#800000" stroke-width="1px"></line>
+<text x="845.3902" y="249" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="855" y1="220" x2="855" y2="230" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="YVEELWAV"><line x1="605" y1="125" x2="615" y2="125" stroke="#800000" stroke-width="1px"></line>
+<text x="601.9907" y="124" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="610" y1="135" x2="610" y2="125" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="ZUYMRQZF"><g id="YJOMKELH"><line x1="815" y1="197" x2="815" y2="190" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="PVVFRLDF"><line x1="815" y1="204" x2="815" y2="210" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="LZEJUWKA"><line x1="825" y1="197" x2="805" y2="197" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SHPNJZVV"><line x1="825" y1="203" x2="805" y2="203" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UNKSGBWG"><line x1="815" y1="197" x2="815" y2="194" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SJMVDXCO"><line x1="815" y1="204" x2="815" y2="205" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FFWCVQPV"><text x="785" y="199" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">C7</text>
+</g>
+<g id="ZQNKCPWG"><text x="785" y="209" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">47pF</text>
+</g>
+</g>
+<g id="DQJWDRJL"><g id="ITOIWAOZ"><line x1="855" y1="197" x2="855" y2="190" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="MXLXMKHV"><line x1="855" y1="204" x2="855" y2="210" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="GJBMWLFN"><line x1="865" y1="197" x2="845" y2="197" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YTWGWFSO"><line x1="865" y1="203" x2="845" y2="203" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WKTCCHZY"><line x1="855" y1="197" x2="855" y2="194" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BOXFDZTS"><line x1="855" y1="204" x2="855" y2="205" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UOSZHLFK"><text x="865" y="199" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">C8</text>
+</g>
+<g id="DMFNZUNR"><text x="865" y="209" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">47pF</text>
+</g>
+</g>
+<g id="VVBOPSBX"><line x1="831" y1="158.5" x2="835" y2="158.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="835" y1="158.5" x2="837" y2="156.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="837" y1="156.5" x2="841" y2="156.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="841" y1="156.5" x2="843" y2="158.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="843" y1="158.5" x2="847" y2="158.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="831" y1="161" x2="835" y2="161" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="835" y1="161" x2="837" y2="163" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="837" y1="163" x2="841" y2="163" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="841" y1="163" x2="843" y2="161" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="843" y1="161" x2="847" y2="161" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="825" y1="165" x2="831" y2="161" stroke="#D0A19E" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="830" y1="157.5" x2="834" y2="157.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="834" y1="157.5" x2="836" y2="155.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="836" y1="155.5" x2="840" y2="155.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="840" y1="155.5" x2="842" y2="157.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="842" y1="157.5" x2="846" y2="157.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="830" y1="160" x2="834" y2="160" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="834" y1="160" x2="836" y2="162" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="836" y1="162" x2="840" y2="162" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="840" y1="162" x2="842" y2="160" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="842" y1="160" x2="846" y2="160" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="825" y1="165" x2="830" y2="160" stroke="#FF0000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="PEHZDUXK"><line x1="831" y1="168.5" x2="835" y2="168.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="835" y1="168.5" x2="837" y2="166.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="837" y1="166.5" x2="841" y2="166.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="841" y1="166.5" x2="843" y2="168.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="843" y1="168.5" x2="847" y2="168.5" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="831" y1="171" x2="835" y2="171" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="835" y1="171" x2="837" y2="173" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="837" y1="173" x2="841" y2="173" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="841" y1="173" x2="843" y2="171" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="843" y1="171" x2="847" y2="171" stroke="#D0A19E" stroke-width="1px"></line>
+<line x1="825" y1="175" x2="831" y2="171" stroke="#D0A19E" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+<line x1="830" y1="167.5" x2="834" y2="167.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="834" y1="167.5" x2="836" y2="165.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="836" y1="165.5" x2="840" y2="165.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="840" y1="165.5" x2="842" y2="167.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="842" y1="167.5" x2="846" y2="167.5" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="830" y1="170" x2="834" y2="170" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="834" y1="170" x2="836" y2="172" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="836" y1="172" x2="840" y2="172" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="840" y1="172" x2="842" y2="170" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="842" y1="170" x2="846" y2="170" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="825" y1="175" x2="830" y2="170" stroke="#FF0000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></line>
+</g>
+<g id="CZVSKAQT"><line x1="480" y1="300" x2="490" y2="300" stroke="#800000" stroke-width="1px"></line>
+<text x="475.0529" y="299" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+3V3</text>
+<line x1="485" y1="310" x2="485" y2="300" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="FUKVFZNJ"><line x1="480" y1="340" x2="490" y2="340" stroke="#800000" stroke-width="1px"></line>
+<text x="475.0529" y="339" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+3V3</text>
+<line x1="485" y1="350" x2="485" y2="340" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="CLNLSNBV"><rect x="315" y="260" width="220" height="130" stroke="#000000" stroke-width="1px"></rect>
+</g>
+<g id="NAAGSQQA"><line x1="315" y1="280" x2="535" y2="280" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="VYZPWLYD"><text x="355.4841" y="277" font-size="16px" font-family="Times New Roman" fill="#000000" xml:space="preserve">I2C BUS PULL UP</text>
+</g>
+<g id="SHVDRPJB"><g id="QHTXKCRS"><rect x="715" y="145" width="60" height="50" fill="#FFFFB0" fill-opacity="1"></rect>
+<rect x="715" y="145" width="60" height="50" stroke="#800000" stroke-width="1px"></rect>
+</g>
+<g id="UWAJVSRU"><line x1="715" y1="155" x2="695" y2="155" stroke="#000000" stroke-width="1px"></line>
+<text x="722" y="159" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">TXO</text>
+<text x="703.5873" y="154" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="MNBGJQRH"><line x1="715" y1="165" x2="695" y2="165" stroke="#000000" stroke-width="1px"></line>
+<text x="722" y="169" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">GND</text>
+<text x="702.8597" y="164" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="IIIJGQAI"><line x1="715" y1="175" x2="695" y2="175" stroke="#000000" stroke-width="1px"></line>
+<text x="722" y="179" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">VS</text>
+<text x="703.2346" y="174" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">3</text>
+</g>
+<g id="LZYVKUUE"><line x1="715" y1="185" x2="695" y2="185" stroke="#000000" stroke-width="1px"></line>
+<text x="722" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">RXO</text>
+<text x="702.798" y="184" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">4</text>
+</g>
+<g id="HWPUBIOT"><line x1="775" y1="155" x2="795" y2="155" stroke="#000000" stroke-width="1px"></line>
+<text x="750.7469" y="159" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">ASC</text>
+<text x="783" y="154" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">8</text>
+</g>
+<g id="QKNCGVDD"><line x1="775" y1="165" x2="795" y2="165" stroke="#000000" stroke-width="1px"></line>
+<text x="751.1261" y="169" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">C_H</text>
+<text x="783" y="164" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">7</text>
+</g>
+<g id="DCAACRVD"><line x1="775" y1="175" x2="795" y2="175" stroke="#000000" stroke-width="1px"></line>
+<text x="752.1402" y="179" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">C_L</text>
+<text x="783" y="174" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">6</text>
+</g>
+<g id="WSXVTWKS"><line x1="775" y1="185" x2="795" y2="185" stroke="#000000" stroke-width="1px"></line>
+<text x="752.0432" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">RX1</text>
+<text x="783" y="184" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">5</text>
+</g>
+<g id="MIFAPHCN"><text x="715" y="144" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">IC1</text>
+</g>
+<g id="UUJJILBC"><text x="715" y="204" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">L9616-TR</text>
+</g>
+</g>
+<g id="NBYPUGDR"><g id="XISOBBYU"><line x1="435" y1="320" x2="445" y2="320" stroke="#000000" stroke-width="1px"></line>
+<text x="443" y="318" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="AGJCVGPY"><line x1="405" y1="320" x2="395" y2="320" stroke="#000000" stroke-width="1px"></line>
+<text x="393.6652" y="318" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="XOEQARCD"><line x1="435" y1="320" x2="432" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="432" y1="317" x2="429" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="429" y1="320" x2="426" y2="323" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="426" y1="323" x2="420" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="420" y1="317" x2="414" y2="323" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="414" y1="323" x2="408" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="408" y1="317" x2="405" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DNYZBQYV"><text x="404" y="333" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">4.7k</text>
+</g>
+<g id="WXRDMYVS"><text x="404" y="314" font-size="8px" font-family="Arial" fill="#000080" xml:space="preserve">R7</text>
+</g>
+</g>
+<g id="DRBQKRLF"><g id="QAUWTRAW"><line x1="435" y1="360" x2="445" y2="360" stroke="#000000" stroke-width="1px"></line>
+<text x="443" y="358" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="GNLPAPZF"><line x1="405" y1="360" x2="395" y2="360" stroke="#000000" stroke-width="1px"></line>
+<text x="393.6652" y="358" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="KUOYRUDG"><line x1="435" y1="360" x2="432" y2="357" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="432" y1="357" x2="429" y2="360" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="429" y1="360" x2="426" y2="363" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="426" y1="363" x2="420" y2="357" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="420" y1="357" x2="414" y2="363" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="414" y1="363" x2="408" y2="357" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="408" y1="357" x2="405" y2="360" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JPYOWUQC"><text x="404" y="373" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">4.7k</text>
+</g>
+<g id="DPKUEXSO"><text x="404" y="354" font-size="8px" font-family="Arial" fill="#000080" xml:space="preserve">R8</text>
+</g>
+</g>
+<g id="QBWSUJZD"><g id="USGJIMAA"><line x1="685" y1="255" x2="685" y2="275" stroke="#000000" stroke-width="1px"></line>
+<text x="684" y="266.4127" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 684 266.4127)" xml:space="preserve">1</text>
+</g>
+<g id="HAQTNVOY"><line x1="685" y1="225" x2="685" y2="205" stroke="#000000" stroke-width="1px"></line>
+<text x="684" y="217" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 684 217)" xml:space="preserve">2</text>
+</g>
+<g id="ABWYTTFR"><line x1="685" y1="255" x2="680" y2="252" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SODJSRCG"><line x1="680" y1="252" x2="690" y2="247" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ODZHYKKN"><line x1="690" y1="247" x2="680" y2="242" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FTNPFSLV"><line x1="680" y1="242" x2="690" y2="237" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NYRTNBJB"><line x1="690" y1="237" x2="680" y2="232" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NPQTJRHQ"><line x1="680" y1="232" x2="690" y2="227" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YKEKVGAP"><line x1="690" y1="227" x2="685" y2="225" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RITAFQMA"><line x1="685" y1="255" x2="685" y2="258" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DIWTZISN"><line x1="685" y1="225" x2="685" y2="222" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="COSESUID"><text x="691" y="240" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">22Ω</text>
+</g>
+<g id="ZUCKKOFK"><text x="691" y="230" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">R6</text>
+</g>
+</g>
+<g id="LEKERGCK"><g id="FUQPYKJH"><line x1="660" y1="250" x2="660" y2="270" stroke="#000000" stroke-width="1px"></line>
+<text x="659" y="261.4127" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 659 261.4127)" xml:space="preserve">1</text>
+</g>
+<g id="PUKDYXWF"><line x1="660" y1="220" x2="660" y2="200" stroke="#000000" stroke-width="1px"></line>
+<text x="659" y="212" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 659 212)" xml:space="preserve">2</text>
+</g>
+<g id="XPTYBUSK"><line x1="660" y1="250" x2="655" y2="247" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NMBYESXM"><line x1="655" y1="247" x2="665" y2="242" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YULRVRAM"><line x1="665" y1="242" x2="655" y2="237" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GHHKQCSN"><line x1="655" y1="237" x2="665" y2="232" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IEHBNDIL"><line x1="665" y1="232" x2="655" y2="227" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BGCLIKCX"><line x1="655" y1="227" x2="665" y2="222" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WYEEMEKF"><line x1="665" y1="222" x2="660" y2="220" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PGRUNHTL"><line x1="660" y1="250" x2="660" y2="253" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UOQZLVYU"><line x1="660" y1="220" x2="660" y2="217" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DKHGWCRH"><text x="666" y="235" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">22Ω</text>
+</g>
+<g id="TRVNBVFV"><text x="666" y="225" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">R5</text>
+</g>
+</g>
+<g id="TBBDWPTX"><g id="RBHCTAYR"><line x1="705" y1="120" x2="715" y2="120" stroke="#000000" stroke-width="1px"></line>
+<text x="713" y="118" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="OZBGLAOP"><line x1="675" y1="120" x2="665" y2="120" stroke="#000000" stroke-width="1px"></line>
+<text x="663.6652" y="118" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="QDLDCLPD"><line x1="705" y1="120" x2="702" y2="117" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="702" y1="117" x2="699" y2="120" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="699" y1="120" x2="696" y2="123" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="696" y1="123" x2="690" y2="117" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="690" y1="117" x2="684" y2="123" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="684" y1="123" x2="678" y2="117" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="678" y1="117" x2="675" y2="120" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IFFGYGXD"><text x="674" y="133" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">10k</text>
+</g>
+<g id="UPLUJKEW"><text x="674" y="114" font-size="8px" font-family="Arial" fill="#000080" xml:space="preserve">R3</text>
+</g>
+</g>
+<g id="BWQDWUCL"><rect x="813" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="813" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+<g id="HUHBTGTG"><line x1="815" y1="145" x2="815" y2="165" stroke="#000000" stroke-width="1px"></line>
+<text x="814" y="156.4127" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 814 156.4127)" xml:space="preserve">1</text>
+<rect x="813" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="813" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="JOFGLJUA"><line x1="815" y1="115" x2="815" y2="95" stroke="#000000" stroke-width="1px"></line>
+<text x="814" y="107" font-size="9px" font-family="Times New Roman" fill="#000000" transform="rotate(-90 814 107)" xml:space="preserve">2</text>
+</g>
+<g id="EQFUSGLV"><line x1="815" y1="145" x2="810" y2="142" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RXGDZZOR"><line x1="810" y1="142" x2="820" y2="137" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BFHEZJMN"><line x1="820" y1="137" x2="810" y2="132" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FBQYROXR"><line x1="810" y1="132" x2="820" y2="127" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BPYGPHTA"><line x1="820" y1="127" x2="810" y2="122" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IMJVAQGK"><line x1="810" y1="122" x2="820" y2="117" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ANFGBPAV"><line x1="820" y1="117" x2="815" y2="115" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DSPQPNEC"><line x1="815" y1="145" x2="815" y2="148" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AOBJAHCT"><line x1="815" y1="115" x2="815" y2="112" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZPUXEGBJ"><text x="821" y="130" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">120Ω</text>
+</g>
+<g id="VZGJPCWK"><text x="821" y="120" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">R4</text>
+</g>
+</g>
+<g id="UMOQTTSK"><g id="IVQOADFW"><line x1="110" y1="80" x2="120" y2="80" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="IUZKTUEF"><line x1="70" y1="80" x2="60" y2="80" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="QSKRCELG"><line x1="100" y1="80" x2="80" y2="90" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BBGQKUQK"><line x1="80" y1="90" x2="80" y2="70" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YHYLOWFJ"><line x1="80" y1="70" x2="100" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NBPVBNNP"><line x1="100" y1="90" x2="100" y2="70" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LOZAIBIW"><line x1="95" y1="90" x2="105" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MBMBXGOF"><line x1="99" y1="97" x2="102" y2="94" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QASQGPLU"><line x1="102" y1="94" x2="105" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NAEAPPEO"><line x1="105" y1="100" x2="99" y2="97" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OREVVPBW"><line x1="85" y1="90" x2="95" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YBZNJELG"><line x1="89" y1="97" x2="92" y2="94" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NKFAVWJW"><line x1="92" y1="94" x2="95" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DFNIXIHX"><line x1="95" y1="100" x2="89" y2="97" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WYMGBSKB"><line x1="110" y1="80" x2="100" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YVREQYKI"><line x1="80" y1="80" x2="70" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EWDDTRYW"><text x="69" y="68" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED1</text>
+</g>
+<g id="OJHEXHQM"><text x="69" y="110" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="MLYXJZKT"><line x1="55" y1="70" x2="65" y2="70" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="69" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="80" x2="60" y2="70" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="NNNNFZEA"><g id="FPDPSNBY"><line x1="245" y1="80" x2="255" y2="80" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="PRIEPVWJ"><line x1="205" y1="80" x2="195" y2="80" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="79" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="QWNHEUYC"><line x1="235" y1="80" x2="215" y2="90" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NLYSECCE"><line x1="215" y1="90" x2="215" y2="70" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UZBTSHKW"><line x1="215" y1="70" x2="235" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZDRHXHCS"><line x1="235" y1="90" x2="235" y2="70" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="REWJMXWL"><line x1="230" y1="90" x2="240" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RABGPITN"><line x1="234" y1="97" x2="237" y2="94" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PEKQUCQI"><line x1="237" y1="94" x2="240" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LRHBCQFG"><line x1="240" y1="100" x2="234" y2="97" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JGBZFTRW"><line x1="220" y1="90" x2="230" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DPCRFDGR"><line x1="224" y1="97" x2="227" y2="94" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JDSSXMXO"><line x1="227" y1="94" x2="230" y2="100" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NNXUPUIA"><line x1="230" y1="100" x2="224" y2="97" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VVXJHTIW"><line x1="245" y1="80" x2="235" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MNMEZZCH"><line x1="215" y1="80" x2="205" y2="80" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BNXGXOHE"><text x="204" y="68" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED2</text>
+</g>
+<g id="VQDVVRLS"><text x="204" y="110" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="CLXJLUBX"><line x1="190" y1="70" x2="200" y2="70" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="69" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="80" x2="195" y2="70" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="GXGJAPFG"><g id="XAOTIDWI"><line x1="110" y1="135" x2="120" y2="135" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="ZLGOBPTI"><line x1="70" y1="135" x2="60" y2="135" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="BJAJJPDL"><line x1="100" y1="135" x2="80" y2="145" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HASUWTGK"><line x1="80" y1="145" x2="80" y2="125" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WEJDOZJO"><line x1="80" y1="125" x2="100" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FGOGOCHQ"><line x1="100" y1="145" x2="100" y2="125" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DXIROWWH"><line x1="95" y1="145" x2="105" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XCLILBMF"><line x1="99" y1="152" x2="102" y2="149" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EVRWGQTB"><line x1="102" y1="149" x2="105" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AMDDBXXE"><line x1="105" y1="155" x2="99" y2="152" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TBRYLPWA"><line x1="85" y1="145" x2="95" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IBFLNBCE"><line x1="89" y1="152" x2="92" y2="149" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TJBSKKKM"><line x1="92" y1="149" x2="95" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EGQCSTGA"><line x1="95" y1="155" x2="89" y2="152" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FGOKKOTO"><line x1="110" y1="135" x2="100" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZQOELHOZ"><line x1="80" y1="135" x2="70" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZFTFYOLB"><text x="69" y="123" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED3</text>
+</g>
+<g id="WNKVWUVJ"><text x="69" y="165" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="TICWAIEU"><line x1="55" y1="125" x2="65" y2="125" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="124" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="135" x2="60" y2="125" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="OCKLDPBV"><g id="WXDKMAVG"><line x1="245" y1="135" x2="255" y2="135" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="XZNQFWJS"><line x1="205" y1="135" x2="195" y2="135" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="TVVKWTCX"><line x1="235" y1="135" x2="215" y2="145" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YDNGYEMT"><line x1="215" y1="145" x2="215" y2="125" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NLNCSPAE"><line x1="215" y1="125" x2="235" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MFWWGNXR"><line x1="235" y1="145" x2="235" y2="125" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TSRIURZC"><line x1="230" y1="145" x2="240" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VFLJNPHS"><line x1="234" y1="152" x2="237" y2="149" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NTDTJHAE"><line x1="237" y1="149" x2="240" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VQYRXFQL"><line x1="240" y1="155" x2="234" y2="152" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FWNGNDZV"><line x1="220" y1="145" x2="230" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MKGMEQRX"><line x1="224" y1="152" x2="227" y2="149" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XDJMJDIM"><line x1="227" y1="149" x2="230" y2="155" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RNMDTIFQ"><line x1="230" y1="155" x2="224" y2="152" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PADQCBFJ"><line x1="245" y1="135" x2="235" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UHHYANZE"><line x1="215" y1="135" x2="205" y2="135" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WLFMXTJR"><text x="204" y="123" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED4</text>
+</g>
+<g id="HTWTQBNS"><text x="204" y="165" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="VYMCUJJU"><line x1="190" y1="125" x2="200" y2="125" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="124" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="135" x2="195" y2="125" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="WLLALYCM"><g id="PGZAJZZP"><line x1="110" y1="190" x2="120" y2="190" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="NWFSTLFZ"><line x1="70" y1="190" x2="60" y2="190" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="QSMBIHCH"><line x1="100" y1="190" x2="80" y2="200" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YYMBBISR"><line x1="80" y1="200" x2="80" y2="180" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SOVJQAIR"><line x1="80" y1="180" x2="100" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ETQCAURL"><line x1="100" y1="200" x2="100" y2="180" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GLJTMAEH"><line x1="95" y1="200" x2="105" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DSBLMYOF"><line x1="99" y1="207" x2="102" y2="204" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DNZEPWJQ"><line x1="102" y1="204" x2="105" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JVXORAGD"><line x1="105" y1="210" x2="99" y2="207" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GAVPYZFR"><line x1="85" y1="200" x2="95" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JOFYYXEG"><line x1="89" y1="207" x2="92" y2="204" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EKZNUMWK"><line x1="92" y1="204" x2="95" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="CTJQDPPD"><line x1="95" y1="210" x2="89" y2="207" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LXEMCYHD"><line x1="110" y1="190" x2="100" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IIVBQKRL"><line x1="80" y1="190" x2="70" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YUMHKLTZ"><text x="69" y="178" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED5</text>
+</g>
+<g id="HMTPREUM"><text x="69" y="220" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="IYZRAWCR"><line x1="55" y1="180" x2="65" y2="180" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="179" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="190" x2="60" y2="180" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="XBOJVEME"><g id="DICTUUIZ"><line x1="245" y1="190" x2="255" y2="190" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="ONZIYKBV"><line x1="205" y1="190" x2="195" y2="190" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="RZTEQATE"><line x1="235" y1="190" x2="215" y2="200" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IJLSQTIW"><line x1="215" y1="200" x2="215" y2="180" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WVRYZJPJ"><line x1="215" y1="180" x2="235" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GENDLNMN"><line x1="235" y1="200" x2="235" y2="180" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZSRWLHOC"><line x1="230" y1="200" x2="240" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PXLKJPJU"><line x1="234" y1="207" x2="237" y2="204" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FDLCSDWH"><line x1="237" y1="204" x2="240" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JJYLMPSV"><line x1="240" y1="210" x2="234" y2="207" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XXSXBMKP"><line x1="220" y1="200" x2="230" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HOIBYFAQ"><line x1="224" y1="207" x2="227" y2="204" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VTYIBJUW"><line x1="227" y1="204" x2="230" y2="210" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WKMBICPA"><line x1="230" y1="210" x2="224" y2="207" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FQMLXMTS"><line x1="245" y1="190" x2="235" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SWUEUVJE"><line x1="215" y1="190" x2="205" y2="190" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZBKUFRXX"><text x="204" y="178" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED6</text>
+</g>
+<g id="MFPAKQCZ"><text x="204" y="220" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="ZWHNMCTJ"><line x1="190" y1="180" x2="200" y2="180" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="179" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="190" x2="195" y2="180" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="AORIEZSH"><g id="OWNNXZKE"><line x1="110" y1="245" x2="120" y2="245" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="244" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="HTYPCQMH"><line x1="70" y1="245" x2="60" y2="245" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="244" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="WXIBECIW"><line x1="100" y1="245" x2="80" y2="255" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WZURZVST"><line x1="80" y1="255" x2="80" y2="235" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YRJVBQNQ"><line x1="80" y1="235" x2="100" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HUBKEEXK"><line x1="100" y1="255" x2="100" y2="235" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="CJMHRQDM"><line x1="95" y1="255" x2="105" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NRQYFTFL"><line x1="99" y1="262" x2="102" y2="259" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AERLHQGG"><line x1="102" y1="259" x2="105" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JRUJBXSR"><line x1="105" y1="265" x2="99" y2="262" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BKPPJKCH"><line x1="85" y1="255" x2="95" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OXIKZPLO"><line x1="89" y1="262" x2="92" y2="259" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OPKZNMDL"><line x1="92" y1="259" x2="95" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DGYZWTKP"><line x1="95" y1="265" x2="89" y2="262" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YYWVEQCQ"><line x1="110" y1="245" x2="100" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="CJWKIVGU"><line x1="80" y1="245" x2="70" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QFGKBIUO"><text x="69" y="233" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED7</text>
+</g>
+<g id="QWGOVNWV"><text x="69" y="275" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="IBBXWVRC"><line x1="55" y1="235" x2="65" y2="235" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="234" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="245" x2="60" y2="235" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="FPJJLSMG"><g id="HKVVYEWO"><line x1="245" y1="245" x2="255" y2="245" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="244" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="OYWPGVSI"><line x1="205" y1="245" x2="195" y2="245" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="244" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="RIXYWMTW"><line x1="235" y1="245" x2="215" y2="255" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DZJPUFWB"><line x1="215" y1="255" x2="215" y2="235" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AXCERXNH"><line x1="215" y1="235" x2="235" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LOFWWJKJ"><line x1="235" y1="255" x2="235" y2="235" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WASCUOJU"><line x1="230" y1="255" x2="240" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RYRZVGUJ"><line x1="234" y1="262" x2="237" y2="259" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BVOJTORT"><line x1="237" y1="259" x2="240" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VQMIHWAU"><line x1="240" y1="265" x2="234" y2="262" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OZTTNUGM"><line x1="220" y1="255" x2="230" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NHNTFOLE"><line x1="224" y1="262" x2="227" y2="259" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UVUBUAPI"><line x1="227" y1="259" x2="230" y2="265" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JYHDBBNU"><line x1="230" y1="265" x2="224" y2="262" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YXKVNAWH"><line x1="245" y1="245" x2="235" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OBWLAYOH"><line x1="215" y1="245" x2="205" y2="245" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AVJHFOER"><text x="204" y="233" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED8</text>
+</g>
+<g id="SBCUMAID"><text x="204" y="275" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="MEZRCHHX"><line x1="190" y1="235" x2="200" y2="235" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="234" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="245" x2="195" y2="235" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="VQHNZKWW"><g id="XOIUEFTO"><line x1="110" y1="300" x2="120" y2="300" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="299" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="TBOQBSUA"><line x1="70" y1="300" x2="60" y2="300" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="299" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="RVZEGTKB"><line x1="100" y1="300" x2="80" y2="310" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FRGVBQSA"><line x1="80" y1="310" x2="80" y2="290" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VYLFFOZZ"><line x1="80" y1="290" x2="100" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FRADCRSC"><line x1="100" y1="310" x2="100" y2="290" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WGVELSPD"><line x1="95" y1="310" x2="105" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EGPNZYMC"><line x1="99" y1="317" x2="102" y2="314" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JOUDHPVD"><line x1="102" y1="314" x2="105" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VAZPSHZN"><line x1="105" y1="320" x2="99" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YDYUUNPD"><line x1="85" y1="310" x2="95" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IHBZZLZG"><line x1="89" y1="317" x2="92" y2="314" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FXTOXPVH"><line x1="92" y1="314" x2="95" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LSIKTALX"><line x1="95" y1="320" x2="89" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GBPVZRIW"><line x1="110" y1="300" x2="100" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YRUZNWEJ"><line x1="80" y1="300" x2="70" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UWMQPZEK"><text x="69" y="288" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED9</text>
+</g>
+<g id="FVZISJLH"><text x="69" y="330" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="RBJORLZW"><line x1="55" y1="290" x2="65" y2="290" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="289" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="300" x2="60" y2="290" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="FZXSWGLQ"><g id="TFLOYVLI"><line x1="245" y1="300" x2="255" y2="300" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="299" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="JBSNNOEO"><line x1="205" y1="300" x2="195" y2="300" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="299" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="TNZJJRVR"><line x1="235" y1="300" x2="215" y2="310" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="CMGEVSSH"><line x1="215" y1="310" x2="215" y2="290" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QCVXCNTY"><line x1="215" y1="290" x2="235" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GKCSKMVQ"><line x1="235" y1="310" x2="235" y2="290" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UIYIGCGB"><line x1="230" y1="310" x2="240" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="KULLPHMR"><line x1="234" y1="317" x2="237" y2="314" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IKWKTGMG"><line x1="237" y1="314" x2="240" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UBCZPDGQ"><line x1="240" y1="320" x2="234" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RPJMTKBO"><line x1="220" y1="310" x2="230" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VUNHBIIZ"><line x1="224" y1="317" x2="227" y2="314" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XKKZPKXN"><line x1="227" y1="314" x2="230" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WSOEAHLH"><line x1="230" y1="320" x2="224" y2="317" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OUTAXZXY"><line x1="245" y1="300" x2="235" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JIPYTEEL"><line x1="215" y1="300" x2="205" y2="300" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SMNDXZPQ"><text x="204" y="288" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED10</text>
+</g>
+<g id="JEMTIIHQ"><text x="204" y="330" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="ZRBLJJAD"><line x1="190" y1="290" x2="200" y2="290" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="289" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="300" x2="195" y2="290" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="GOAVYULK"><g id="EEHBKOFH"><line x1="110" y1="355" x2="120" y2="355" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="354" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="HNPACJUC"><line x1="70" y1="355" x2="60" y2="355" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="354" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="LGOVUYJQ"><line x1="100" y1="355" x2="80" y2="365" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IDHCWRPQ"><line x1="80" y1="365" x2="80" y2="345" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EUCAVCCA"><line x1="80" y1="345" x2="100" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TYSJIMPX"><line x1="100" y1="365" x2="100" y2="345" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TXKRGPPG"><line x1="95" y1="365" x2="105" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="URTGHCLQ"><line x1="99" y1="372" x2="102" y2="369" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XZVIGUHI"><line x1="102" y1="369" x2="105" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ENBWFAHW"><line x1="105" y1="375" x2="99" y2="372" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OKJZGXKO"><line x1="85" y1="365" x2="95" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FWFEIVTR"><line x1="89" y1="372" x2="92" y2="369" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NCLIQHQZ"><line x1="92" y1="369" x2="95" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QCNSOTAU"><line x1="95" y1="375" x2="89" y2="372" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="KXSWTMJZ"><line x1="110" y1="355" x2="100" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PHCKPCAI"><line x1="80" y1="355" x2="70" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GITRUOYO"><text x="69" y="343" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED11</text>
+</g>
+<g id="VWCNSFEN"><text x="69" y="385" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="KOJHCLDJ"><line x1="55" y1="345" x2="65" y2="345" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="344" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="355" x2="60" y2="345" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="PSBKVYHC"><g id="FRWUCPZD"><line x1="245" y1="355" x2="255" y2="355" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="354" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="NXWXVKMK"><line x1="205" y1="355" x2="195" y2="355" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="354" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="ALTFAZJL"><line x1="235" y1="355" x2="215" y2="365" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NKUIYQQV"><line x1="215" y1="365" x2="215" y2="345" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TOUSZEIS"><line x1="215" y1="345" x2="235" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LYTTRDBE"><line x1="235" y1="365" x2="235" y2="345" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GQJJEBBG"><line x1="230" y1="365" x2="240" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IKGSUQFW"><line x1="234" y1="372" x2="237" y2="369" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HBEHQTLW"><line x1="237" y1="369" x2="240" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DBTCGPUK"><line x1="240" y1="375" x2="234" y2="372" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JQCIGGQS"><line x1="220" y1="365" x2="230" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MOKPXQXU"><line x1="224" y1="372" x2="227" y2="369" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="TWMPZTON"><line x1="227" y1="369" x2="230" y2="375" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ENGDHZAS"><line x1="230" y1="375" x2="224" y2="372" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PWIDOWQB"><line x1="245" y1="355" x2="235" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LLUBIWYM"><line x1="215" y1="355" x2="205" y2="355" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DOPOSGDJ"><text x="204" y="343" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED12</text>
+</g>
+<g id="JEMRZOLS"><text x="204" y="385" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="CNPYTWNZ"><line x1="190" y1="345" x2="200" y2="345" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="344" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="355" x2="195" y2="345" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="JLWULNRI"><g id="PDIRTEVA"><line x1="110" y1="410" x2="120" y2="410" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="409" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="OETJEFTQ"><line x1="70" y1="410" x2="60" y2="410" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="409" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="XKRBCHOO"><line x1="100" y1="410" x2="80" y2="420" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NBKMLXVV"><line x1="80" y1="420" x2="80" y2="400" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="WPXCQAIM"><line x1="80" y1="400" x2="100" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZYNTNSTE"><line x1="100" y1="420" x2="100" y2="400" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SGWBWQGI"><line x1="95" y1="420" x2="105" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PTERUJPR"><line x1="99" y1="427" x2="102" y2="424" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IYNPHRZX"><line x1="102" y1="424" x2="105" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BEBDTVBU"><line x1="105" y1="430" x2="99" y2="427" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HGUFAUZF"><line x1="85" y1="420" x2="95" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IPMWWQRQ"><line x1="89" y1="427" x2="92" y2="424" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JWKOFEWA"><line x1="92" y1="424" x2="95" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GZZROCOU"><line x1="95" y1="430" x2="89" y2="427" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SJKOOJQO"><line x1="110" y1="410" x2="100" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YHGSECBK"><line x1="80" y1="410" x2="70" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JYRZZHPQ"><text x="69" y="398" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED13</text>
+</g>
+<g id="CZGYLJGJ"><text x="69" y="440" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="CYXQMNLD"><line x1="55" y1="400" x2="65" y2="400" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="399" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="410" x2="60" y2="400" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="PREZSRKL"><g id="TEEUTNQH"><line x1="245" y1="410" x2="255" y2="410" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="409" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="THHHWJHA"><line x1="205" y1="410" x2="195" y2="410" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="409" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="OGVNCTOA"><line x1="235" y1="410" x2="215" y2="420" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PZIXVEMR"><line x1="215" y1="420" x2="215" y2="400" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VHIVLOHX"><line x1="215" y1="400" x2="235" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="STDUJJJF"><line x1="235" y1="420" x2="235" y2="400" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JDLMWXJA"><line x1="230" y1="420" x2="240" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PEFUFTLP"><line x1="234" y1="427" x2="237" y2="424" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UQLOBLOZ"><line x1="237" y1="424" x2="240" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YYVIQUQF"><line x1="240" y1="430" x2="234" y2="427" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QCNRSAVY"><line x1="220" y1="420" x2="230" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XIGHINRZ"><line x1="224" y1="427" x2="227" y2="424" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="INZSXUEY"><line x1="227" y1="424" x2="230" y2="430" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PLNXBBJU"><line x1="230" y1="430" x2="224" y2="427" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NZEDFUXT"><line x1="245" y1="410" x2="235" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VMQTFHQL"><line x1="215" y1="410" x2="205" y2="410" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LESZJCVA"><text x="204" y="398" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED14</text>
+</g>
+<g id="ZZVJPYUN"><text x="204" y="440" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="QRTXDWPZ"><line x1="190" y1="400" x2="200" y2="400" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="399" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="410" x2="195" y2="400" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="AIMWLOYS"><g id="WSWCFTBW"><line x1="110" y1="465" x2="120" y2="465" stroke="#000000" stroke-width="1px"></line>
+<text x="118" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="LHKBQBOK"><line x1="70" y1="465" x2="60" y2="465" stroke="#000000" stroke-width="1px"></line>
+<text x="57.85979" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="ONBGAYTX"><line x1="100" y1="465" x2="80" y2="475" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NSDXYCQB"><line x1="80" y1="475" x2="80" y2="455" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VDDFHGVS"><line x1="80" y1="455" x2="100" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LEMKIVFZ"><line x1="100" y1="475" x2="100" y2="455" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UCIYNSSY"><line x1="95" y1="475" x2="105" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YYOMQDYI"><line x1="99" y1="482" x2="102" y2="479" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="RJGMXICI"><line x1="102" y1="479" x2="105" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SIVWLJPR"><line x1="105" y1="485" x2="99" y2="482" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NDDVUSNC"><line x1="85" y1="475" x2="95" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LEHIRICH"><line x1="89" y1="482" x2="92" y2="479" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="FDTZPSCL"><line x1="92" y1="479" x2="95" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZAFEXVNP"><line x1="95" y1="485" x2="89" y2="482" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JXZMACOY"><line x1="110" y1="465" x2="100" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VEBSBUQJ"><line x1="80" y1="465" x2="70" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SFZDFZXV"><text x="69" y="453" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED15</text>
+</g>
+<g id="IQLFJBKM"><text x="69" y="495" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="CTAPIWDE"><line x1="55" y1="455" x2="65" y2="455" stroke="#800000" stroke-width="1px"></line>
+<text x="51.99074" y="454" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="60" y1="465" x2="60" y2="455" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="ATZVJGBU"><g id="TOPWNLKU"><line x1="245" y1="465" x2="255" y2="465" stroke="#000000" stroke-width="1px"></line>
+<text x="253" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="GOAHCILN"><line x1="205" y1="465" x2="195" y2="465" stroke="#000000" stroke-width="1px"></line>
+<text x="192.8598" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="ZUORQRNA"><line x1="235" y1="465" x2="215" y2="475" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="YRXWFQKP"><line x1="215" y1="475" x2="215" y2="455" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="CYZLOFQE"><line x1="215" y1="455" x2="235" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UDNOMZDS"><line x1="235" y1="475" x2="235" y2="455" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="HLVOSKDC"><line x1="230" y1="475" x2="240" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AOYWNNPP"><line x1="234" y1="482" x2="237" y2="479" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="DKFEIZZU"><line x1="237" y1="479" x2="240" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="EJXNDZOY"><line x1="240" y1="485" x2="234" y2="482" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NFOTUVXS"><line x1="220" y1="475" x2="230" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UXLAHURG"><line x1="224" y1="482" x2="227" y2="479" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OXKBUZJI"><line x1="227" y1="479" x2="230" y2="485" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="MBKIMQYB"><line x1="230" y1="485" x2="224" y2="482" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZZJHYWVI"><line x1="245" y1="465" x2="235" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NMJLOZMJ"><line x1="215" y1="465" x2="205" y2="465" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="XMMPYPCZ"><text x="204" y="453" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">LED0</text>
+</g>
+<g id="DQCKLPPK"><text x="204" y="495" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">150141GS73113</text>
+</g>
+</g>
+<g id="XOFXZOYV"><line x1="190" y1="455" x2="200" y2="455" stroke="#800000" stroke-width="1px"></line>
+<text x="186.9907" y="454" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+5V</text>
+<line x1="195" y1="465" x2="195" y2="455" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="ZUFCWZXV"><g id="NXZVUSRP"><line x1="850" y1="95" x2="820" y2="95" stroke="#000000" stroke-width="1px"></line>
+<polygon points="844,93 850,95 844,97" fill="#F8FCFF" fill-opacity="1"></polygon><polygon points="844,93 850,95 844,97" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="838.5873" y="94" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="OMQBAUBW"><line x1="870" y1="95" x2="900" y2="95" stroke="#000000" stroke-width="1px"></line>
+<polygon points="876,93 870,95 876,97" fill="#F8FCFF" fill-opacity="1"></polygon><polygon points="876,93 870,95 876,97" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="878" y="94" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="IXSCBJSD"><path stroke="#0000FF" stroke-width="1px" d="M849.8438,94.5 A10.1806,6.63473 0 0,1 870.1719,94.8125"></path>
+</g>
+<g id="MDIIWYUK"><text x="849.8194" y="87.36526" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">SB1</text>
+</g>
+<g id="HJJJAQDF"><text x="849.8194" y="107" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">Open solder bridge</text>
+</g>
+</g>
+<g id="TPGYYQNV"><g id="CFYAQCXK"><rect x="380" y="85" width="100" height="130" fill="#FFFFB0" fill-opacity="1"></rect>
+<rect x="380" y="85" width="100" height="130" stroke="#800000" stroke-width="1px"></rect>
+</g>
+<g id="LVAMMAXG"><line x1="480" y1="205" x2="500" y2="205" stroke="#000000" stroke-width="1px"></line>
+<text x="453.7804" y="209" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">GND</text>
+<text x="488" y="204" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="QYGRLZLQ"><line x1="480" y1="195" x2="500" y2="195" stroke="#000000" stroke-width="1px"></line>
+<text x="458.6702" y="199" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">SDI</text>
+<text x="488" y="194" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="QUSKASYF"><line x1="480" y1="185" x2="500" y2="185" stroke="#000000" stroke-width="1px"></line>
+<text x="454.8651" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">CLK</text>
+<text x="488" y="184" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">3</text>
+</g>
+<g id="UTJGZPXQ"><line x1="480" y1="175" x2="500" y2="175" stroke="#000000" stroke-width="1px"></line>
+<text x="441.4965" y="179" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">LE/DM1</text>
+<text x="488" y="174" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">4</text>
+</g>
+<g id="SISOUELU"><line x1="480" y1="165" x2="500" y2="165" stroke="#000000" stroke-width="1px"></line>
+<line x1="456.7698" y1="160" x2="450.2487" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.291" y1="160" x2="456.7698" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="468.8069" y1="160" x2="463.291" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="160" x2="468.8069" y2="160" stroke="#000000" stroke-width="1px"></line>
+<text x="450.2487" y="169" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT0</text>
+<text x="488" y="164" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">5</text>
+</g>
+<g id="TYRZBOEC"><line x1="480" y1="155" x2="500" y2="155" stroke="#000000" stroke-width="1px"></line>
+<line x1="457.5502" y1="150" x2="451.0291" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="464.0714" y1="150" x2="457.5502" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="469.5873" y1="150" x2="464.0714" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="150" x2="469.5873" y2="150" stroke="#000000" stroke-width="1px"></line>
+<text x="451.0291" y="159" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT1</text>
+<text x="488" y="154" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">6</text>
+</g>
+<g id="QKUMZZUS"><line x1="480" y1="145" x2="500" y2="145" stroke="#000000" stroke-width="1px"></line>
+<line x1="456.8227" y1="140" x2="450.3015" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.3439" y1="140" x2="456.8227" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="468.8597" y1="140" x2="463.3439" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="140" x2="468.8597" y2="140" stroke="#000000" stroke-width="1px"></line>
+<text x="450.3016" y="149" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT2</text>
+<text x="488" y="144" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">7</text>
+</g>
+<g id="XVSSRRHB"><line x1="480" y1="135" x2="500" y2="135" stroke="#000000" stroke-width="1px"></line>
+<line x1="457.1975" y1="130" x2="450.6764" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.7187" y1="130" x2="457.1975" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="469.2346" y1="130" x2="463.7187" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="130" x2="469.2346" y2="130" stroke="#000000" stroke-width="1px"></line>
+<text x="450.6764" y="139" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT3</text>
+<text x="488" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">8</text>
+</g>
+<g id="BQYDGXWM"><line x1="480" y1="125" x2="500" y2="125" stroke="#000000" stroke-width="1px"></line>
+<line x1="456.761" y1="120" x2="450.2398" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.2821" y1="120" x2="456.761" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="468.798" y1="120" x2="463.2821" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="120" x2="468.798" y2="120" stroke="#000000" stroke-width="1px"></line>
+<text x="450.2398" y="129" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT4</text>
+<text x="488" y="124" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">9</text>
+</g>
+<g id="IYRBBYDF"><line x1="480" y1="115" x2="500" y2="115" stroke="#000000" stroke-width="1px"></line>
+<line x1="457.0432" y1="110" x2="450.522" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.5644" y1="110" x2="457.0432" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="469.0802" y1="110" x2="463.5644" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="110" x2="469.0802" y2="110" stroke="#000000" stroke-width="1px"></line>
+<text x="450.522" y="119" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT5</text>
+<text x="488" y="114" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">10</text>
+</g>
+<g id="PGPOVKQT"><line x1="480" y1="105" x2="500" y2="105" stroke="#000000" stroke-width="1px"></line>
+<line x1="456.7963" y1="100" x2="450.2751" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.3174" y1="100" x2="456.7963" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="468.8333" y1="100" x2="463.3174" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="100" x2="468.8333" y2="100" stroke="#000000" stroke-width="1px"></line>
+<text x="450.2751" y="109" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT6</text>
+<text x="488" y="104" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">11</text>
+</g>
+<g id="NZQZMSDB"><line x1="480" y1="95" x2="500" y2="95" stroke="#000000" stroke-width="1px"></line>
+<line x1="456.8492" y1="90.00003" x2="450.328" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="463.3704" y1="90.00003" x2="456.8492" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="468.8862" y1="90.00003" x2="463.3704" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="473" y1="90.00003" x2="468.8862" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<text x="450.328" y="99" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT7</text>
+<text x="488" y="94" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">12</text>
+</g>
+<g id="RPYLQAWS"><line x1="380" y1="205" x2="360" y2="205" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="209" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">VDD</text>
+<text x="363.2831" y="204" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">24</text>
+</g>
+<g id="OIEBISQZ"><line x1="380" y1="195" x2="360" y2="195" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="199" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">R-EXT</text>
+<text x="363.7196" y="194" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">23</text>
+</g>
+<g id="RNDLBSGQ"><line x1="380" y1="185" x2="360" y2="185" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="189" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">SDO</text>
+<text x="363.3448" y="184" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">22</text>
+</g>
+<g id="AFPHGWZP"><line x1="380" y1="175" x2="360" y2="175" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="170" x2="387" y2="170" stroke="#000000" stroke-width="1px"></line>
+<line x1="399.037" y1="170" x2="393.5211" y2="170" stroke="#000000" stroke-width="1px"></line>
+<line x1="408.067" y1="170" x2="401.5458" y2="170" stroke="#000000" stroke-width="1px"></line>
+<line x1="416.0961" y1="170" x2="408.067" y2="170" stroke="#000000" stroke-width="1px"></line>
+<line x1="420.2363" y1="170" x2="416.0961" y2="170" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="179" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OE/DM2</text>
+<text x="364.0723" y="174" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">21</text>
+</g>
+<g id="UPKLZSOO"><line x1="380" y1="165" x2="360" y2="165" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="160" x2="387" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="160" x2="393.5211" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="160" x2="400.0423" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="160" x2="405.5582" y2="160" stroke="#000000" stroke-width="1px"></line>
+<line x1="413.9929" y1="160" x2="410.0732" y2="160" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="169" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT15</text>
+<text x="363.2919" y="164" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">20</text>
+</g>
+<g id="KWAMFPKU"><line x1="380" y1="155" x2="360" y2="155" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="150" x2="387" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="150" x2="393.5211" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="150" x2="400.0423" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="150" x2="405.5582" y2="150" stroke="#000000" stroke-width="1px"></line>
+<line x1="414.2751" y1="150" x2="410.0732" y2="150" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="159" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT14</text>
+<text x="363.358" y="154" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">19</text>
+</g>
+<g id="IRIYPSZY"><line x1="380" y1="145" x2="360" y2="145" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="140" x2="387" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="140" x2="393.5211" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="140" x2="400.0423" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="140" x2="405.5582" y2="140" stroke="#000000" stroke-width="1px"></line>
+<line x1="413.8386" y1="140" x2="410.0732" y2="140" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="149" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT13</text>
+<text x="363.4903" y="144" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">18</text>
+</g>
+<g id="JHKKKOMR"><line x1="380" y1="135" x2="360" y2="135" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="130" x2="387" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="130" x2="393.5211" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="130" x2="400.0423" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="130" x2="405.5582" y2="130" stroke="#000000" stroke-width="1px"></line>
+<line x1="414.2134" y1="130" x2="410.0732" y2="130" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="139" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT12</text>
+<text x="363.3712" y="134" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">17</text>
+</g>
+<g id="IPGTIFZY"><line x1="380" y1="125" x2="360" y2="125" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="120" x2="387" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="120" x2="393.5211" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="120" x2="400.0423" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="120" x2="405.5582" y2="120" stroke="#000000" stroke-width="1px"></line>
+<line x1="413.4859" y1="120" x2="410.0732" y2="120" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="129" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT11</text>
+<text x="363.3183" y="124" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">16</text>
+</g>
+<g id="YOBFSTKK"><line x1="380" y1="115" x2="360" y2="115" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="110" x2="387" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="110" x2="393.5211" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="110" x2="400.0423" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="410.0732" y1="110" x2="405.5582" y2="110" stroke="#000000" stroke-width="1px"></line>
+<line x1="414.2663" y1="110" x2="410.0732" y2="110" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="119" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT10</text>
+<text x="363.5652" y="114" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">15</text>
+</g>
+<g id="UVYOOBZC"><line x1="380" y1="105" x2="360" y2="105" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="100" x2="387" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="100" x2="393.5211" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="100" x2="400.0423" y2="100" stroke="#000000" stroke-width="1px"></line>
+<line x1="409.6852" y1="100" x2="405.5582" y2="100" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="109" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT9</text>
+<text x="363.2831" y="104" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">14</text>
+</g>
+<g id="PLCRHEEV"><line x1="380" y1="95" x2="360" y2="95" stroke="#000000" stroke-width="1px"></line>
+<line x1="393.5211" y1="90.00003" x2="387" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="400.0423" y1="90.00003" x2="393.5211" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="405.5582" y1="90.00003" x2="400.0423" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<line x1="409.5529" y1="90.00003" x2="405.5582" y2="90.00003" stroke="#000000" stroke-width="1px"></line>
+<text x="387" y="99" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">OUT8</text>
+<text x="363.7196" y="94" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">13</text>
+</g>
+<g id="VRFIYIGP"><text x="380" y="84" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">IC2</text>
+</g>
+<g id="CCALGSKV"><text x="380" y="224" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">STP16CP05MTR</text>
+</g>
+</g>
+<g id="YHJELWSY"><line x1="355" y1="215" x2="365" y2="215" stroke="#800000" stroke-width="1px"></line>
+<text x="350.0529" y="224" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">+3V3</text>
+<line x1="360" y1="205" x2="360" y2="215" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="JOMVYLSW"><line x1="490" y1="215" x2="510" y2="215" stroke="#800000" stroke-width="1px"></line>
+<line x1="490" y1="215" x2="500" y2="225" stroke="#800000" stroke-width="1px"></line>
+<line x1="510" y1="215" x2="500" y2="225" stroke="#800000" stroke-width="1px"></line>
+<text x="490.3902" y="234" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="500" y1="205" x2="500" y2="215" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="RMLGPJUD"><g id="FZEEJWGC"><line x1="350" y1="195" x2="360" y2="195" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="TGYWFPDU"><line x1="330" y1="195" x2="320" y2="195" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="WKBSKUAZ"><line x1="350" y1="195" x2="346" y2="195" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="346" y1="195" x2="345" y2="197" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="345" y1="197" x2="343" y2="193" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="343" y1="193" x2="341" y2="197" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="341" y1="197" x2="339" y2="193" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="339" y1="193" x2="337" y2="197" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="337" y1="197" x2="335" y2="193" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="335" y1="193" x2="334" y2="195" stroke="#0000FF" stroke-width="1px"></line>
+<line x1="334" y1="195" x2="330" y2="195" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZEFWZNDM"><text x="329" y="191" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">R9</text>
+</g>
+<g id="DXNODNXK"><text x="329" y="207" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">4K3</text>
+</g>
+</g>
+<g id="HNOHHUAY"><line x1="305" y1="205" x2="325" y2="205" stroke="#800000" stroke-width="1px"></line>
+<line x1="305" y1="205" x2="315" y2="215" stroke="#800000" stroke-width="1px"></line>
+<line x1="325" y1="205" x2="315" y2="215" stroke="#800000" stroke-width="1px"></line>
+<text x="305.3902" y="224" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="315" y1="195" x2="315" y2="205" stroke="#800000" stroke-width="1px"></line>
+<rect x="313" y="193" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="313" y="193" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="QOADAIBX"><g id="NWNRCMHL"><line x1="675" y1="310" x2="675" y2="330" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="IDMSWTTQ"><line x1="695" y1="315" x2="695" y2="325" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BKGEPEGZ"><line x1="675" y1="310" x2="695" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="AVHHOJUX"><line x1="675" y1="330" x2="695" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="VIWSHPLX"><line x1="695" y1="315" x2="700" y2="310" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OKUAUWFW"><line x1="695" y1="325" x2="690" y2="330" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="UKBQBWHI"><line x1="695" y1="320" x2="715" y2="310" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="PORHEAXY"><line x1="715" y1="310" x2="715" y2="330" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JOXNXAJM"><line x1="715" y1="330" x2="695" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="ZJQFKFFD"><line x1="675" y1="350" x2="675" y2="370" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QKMDIEWY"><line x1="675" y1="370" x2="715" y2="350" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BNDSXDSN"><line x1="715" y1="350" x2="715" y2="370" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="NVRFZRYT"><line x1="715" y1="370" x2="675" y2="350" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="BORSGCYJ"><line x1="695" y1="355" x2="695" y2="365" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="JORUNUPE"><line x1="695" y1="365" x2="690" y2="370" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="SZMKXQPV"><line x1="695" y1="355" x2="700" y2="350" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="QCSOOZEY"><line x1="715" y1="320" x2="725" y2="320" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="LSBUNDRZ"><line x1="725" y1="320" x2="725" y2="360" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="OTJJLYZS"><line x1="725" y1="360" x2="715" y2="360" stroke="#0000FF" stroke-width="1px"></line>
+</g>
+<g id="GMMAEOWL"><line x1="675" y1="320" x2="655" y2="320" stroke="#000000" stroke-width="1px"></line>
+<text x="663.5873" y="319" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">1</text>
+</g>
+<g id="YVBDJJVJ"><line x1="725" y1="340" x2="745" y2="340" stroke="#000000" stroke-width="1px"></line>
+<text x="733" y="339" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">3</text>
+</g>
+<g id="JTIVSVRO"><line x1="675" y1="360" x2="655" y2="360" stroke="#000000" stroke-width="1px"></line>
+<text x="662.8597" y="359" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">2</text>
+</g>
+<g id="OWNEXACT"><text x="674" y="308" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">D7</text>
+</g>
+<g id="GVOPEBXT"><text x="674" y="380" font-size="9px" font-family="Times New Roman" fill="#000080" xml:space="preserve">ESDCAN02-2BWY</text>
+</g>
+</g>
+<g id="HHMKNFRC"><line x1="755" y1="350" x2="775" y2="350" stroke="#800000" stroke-width="1px"></line>
+<line x1="755" y1="350" x2="765" y2="360" stroke="#800000" stroke-width="1px"></line>
+<line x1="775" y1="350" x2="765" y2="360" stroke="#800000" stroke-width="1px"></line>
+<text x="755.3902" y="369" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">GND</text>
+<line x1="765" y1="340" x2="765" y2="350" stroke="#800000" stroke-width="1px"></line>
+</g>
+<g id="TFPBIZRL"><polygon points="505,190 500,185 505,180 551.186,180 551.186,190" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="505,190 500,185 505,180 551.186,180 551.186,190" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="510" y="189" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">SPICLK</text>
+</g>
+<g id="QSBVBPAL"><polygon points="505,200 500,195 505,190 555.41,190 555.41,200" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="505,200 500,195 505,190 555.41,190 555.41,200" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="510" y="199" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">SPIMOSI</text>
+</g>
+<g id="KRKRRWHW"><line x1="290" y1="510" x2="290" y2="55" stroke="#000000" stroke-width="1px"></line>
+<line x1="290" y1="55" x2="45" y2="55" stroke="#000000" stroke-width="1px"></line>
+<line x1="45" y1="55" x2="45" y2="510" stroke="#000000" stroke-width="1px"></line>
+<line x1="45" y1="510" x2="285" y2="510" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="OPMAOBMY"><line x1="45" y1="55" x2="45" y2="35" stroke="#000000" stroke-width="1px"></line>
+<line x1="45" y1="35" x2="290" y2="35" stroke="#000000" stroke-width="1px"></line>
+<line x1="290" y1="35" x2="290" y2="55" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="EGZGJBHW"><text x="150" y="53" font-size="16px" font-family="Times New Roman" fill="#000000" xml:space="preserve">LEDs</text>
+</g>
+<g id="SFRABFCQ"><polygon points="585,275 585,265 626.4771,265 631.4771,270 626.4771,275" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="585,275 585,265 626.4771,265 631.4771,270 626.4771,275" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="595" y="274" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CanTX</text>
+</g>
+<g id="NCWWPYJL"><polygon points="590,290 585,285 590,280 631.9841,280 631.9841,290" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="590,290 585,285 590,280 631.9841,280 631.9841,290" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="595" y="289" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CanRX</text>
+</g>
+<g id="XVWDLOXP"><polygon points="340,325 335,320 340,315 375,315 380,320 375,325" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="340,325 335,320 340,315 375,315 380,320 375,325" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="345" y="324" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">SDA</text>
+</g>
+<g id="WPGSTESH"><polygon points="335,365 335,355 375,355 380,360 375,365" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="335,365 335,355 375,355 380,360 375,365" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="345" y="364" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">SCL</text>
+</g>
+<g id="OOUEGAQY"><polygon points="590,325 585,320 590,315 630,315 635,320 630,325" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="590,325 585,320 590,315 630,315 635,320 630,325" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="595" y="324" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CAN_P</text>
+</g>
+<g id="BGYSMDWU"><polygon points="590,365 585,360 590,355 629.9735,355 634.9735,360 629.9735,365" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="590,365 585,360 590,355 629.9735,355 634.9735,360 629.9735,365" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="595" y="364" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CAN_N</text>
+</g>
+<g id="ALCJGSPR"><text x="910" y="94" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CAN_N</text>
+</g>
+<g id="KNTUCAQG"><text x="910" y="164" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CAN_P</text>
+</g>
+<g id="SLXYNBRN"><text x="910" y="174" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">CAN_N</text>
+</g>
+<g id="XVABEDRZ"><line x1="965" y1="55" x2="580" y2="55" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="TSSZGYWT"><rect x="300" y="35" width="260" height="210" stroke="#000000" stroke-width="1px"></rect>
+</g>
+<g id="FMVJLUZE"><line x1="560" y1="55" x2="300" y2="55" stroke="#000000" stroke-width="1px"></line>
+</g>
+<g id="ECALWSIN"><text x="373.1746" y="52" font-size="16px" font-family="Times New Roman" fill="#000000" xml:space="preserve">IC2 - HUB LEDs</text>
+</g>
+<g id="IOHGTCUQ"><rect x="648" y="318" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="318" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+<g id="VNTWVNPX"><rect x="646" y="302" width="8" height="8" rx="4" ry="4" fill="#FD8300" fill-opacity="1"></rect>
+<rect x="646" y="302" width="8" height="8" stroke="#000000" stroke-width="1px" rx="4" ry="4"></rect>
+</g>
+<g id="ZPJYGNCJ"><line x1="650" y1="310" x2="650" y2="320" stroke="#000000" stroke-width="1px"></line>
+<rect x="648" y="318" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="318" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="KTGZFWDZ"><text x="646" y="300" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">CAN_P</text>
+</g>
+</g>
+<g id="ZLCIQGEG"><rect x="648" y="358" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="358" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+<g id="CJAHYXNI"><rect x="646" y="342" width="8" height="8" rx="4" ry="4" fill="#FD8300" fill-opacity="1"></rect>
+<rect x="646" y="342" width="8" height="8" stroke="#000000" stroke-width="1px" rx="4" ry="4"></rect>
+</g>
+<g id="UVEZRAHX"><line x1="650" y1="350" x2="650" y2="360" stroke="#000000" stroke-width="1px"></line>
+<rect x="648" y="358" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="358" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="PBSWQADQ"><text x="646" y="340" font-size="8px" font-family="Arial" fill="#000000" xml:space="preserve">CAN_N</text>
+</g>
+</g>
+<g id="OSRLCTRZ"><polygon points="505,180 500,175 505,170 550,170 550,180" fill="#FFFF80" fill-opacity="1"></polygon><polygon points="505,180 500,175 505,170 550,170 550,180" stroke="#800000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><text x="510" y="179" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">LE</text>
+</g>
+<g id="XOPNZEYV"><line x1="356" y1="189" x2="364" y2="181" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="356" y1="181" x2="364" y2="189" stroke="#FF0000" stroke-width="1px"></line>
+</g>
+<g id="DKDRPVTK"><line x1="791" y1="189" x2="799" y2="181" stroke="#FF0000" stroke-width="1px"></line>
+<line x1="791" y1="181" x2="799" y2="189" stroke="#FF0000" stroke-width="1px"></line>
+</g>
+<g id="TBFFDGMP"><text x="330" y="94" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led8</text>
+</g>
+<g id="NNBBMIET"><text x="330" y="104" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led9</text>
+</g>
+<g id="XJEFSSDF"><text x="330" y="114" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led10</text>
+</g>
+<g id="PSBZMSZD"><text x="330" y="124" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led11</text>
+</g>
+<g id="GRWESYTB"><text x="330" y="134" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led12</text>
+</g>
+<g id="TPETVBDG"><text x="330" y="144" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led13</text>
+</g>
+<g id="ZVWIUZSH"><text x="330" y="154" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led14</text>
+</g>
+<g id="SOFAPVHU"><text x="330" y="164" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led15</text>
+</g>
+<g id="OVZRVRJG"><text x="510" y="94" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led7</text>
+</g>
+<g id="EJFKKCBA"><text x="510" y="104" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led6</text>
+</g>
+<g id="ZYJQVPFS"><text x="510" y="114" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led5</text>
+</g>
+<g id="NFRYZOTM"><text x="510" y="124" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led4</text>
+</g>
+<g id="GROGNRBD"><text x="510" y="134" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led3</text>
+</g>
+<g id="FGCVLHDO"><text x="510" y="144" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led2</text>
+</g>
+<g id="FBWUJIYA"><text x="510" y="154" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led1</text>
+</g>
+<g id="VULKRUFP"><text x="510" y="164" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led0</text>
+</g>
+<g id="FJJFQOZK"><text x="260" y="79" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led2</text>
+</g>
+<g id="KPOXRSYH"><text x="260" y="464" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led0</text>
+</g>
+<g id="RDCNQKGD"><text x="260" y="134" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led4</text>
+</g>
+<g id="XCNXKXSM"><text x="260" y="189" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led6</text>
+</g>
+<g id="CMOGRRSR"><text x="260" y="244" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led8</text>
+</g>
+<g id="YNYNFVAG"><text x="260" y="299" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led10</text>
+</g>
+<g id="AOXGRDMM"><text x="260" y="354" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led12</text>
+</g>
+<g id="MWBULYKK"><text x="260" y="409" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led14</text>
+</g>
+<g id="AIJEYPPK"><text x="125" y="79" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led1</text>
+</g>
+<g id="ZBSBIGEN"><text x="125" y="134" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led3</text>
+</g>
+<g id="UIDTXIEQ"><text x="125" y="189" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led5</text>
+</g>
+<g id="BQRHXKUE"><text x="125" y="244" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led7</text>
+</g>
+<g id="UWGFDUYH"><text x="125" y="299" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led9</text>
+</g>
+<g id="SJKWSAAO"><text x="125" y="354" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led11</text>
+</g>
+<g id="ADONUKVS"><text x="125" y="409" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led13</text>
+</g>
+<g id="ETDIYHMP"><text x="125" y="464" font-size="9px" font-family="Times New Roman" fill="#800000" xml:space="preserve">Led15</text>
+</g>
+<g id="HDOQSGJI"><line x1="610" y1="135" x2="610" y2="175" stroke="#000080" stroke-width="1px"></line>
+<line x1="610" y1="175" x2="695" y2="175" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="FVTDUXXL"><line x1="685" y1="205" x2="685" y2="185" stroke="#000080" stroke-width="1px"></line>
+<line x1="685" y1="185" x2="695" y2="185" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="ETETCLNO"><line x1="815" y1="220" x2="815" y2="210" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="RUMGLRCD"><line x1="855" y1="220" x2="855" y2="210" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="XXTYSTBZ"><line x1="855" y1="190" x2="855" y2="175" stroke="#000080" stroke-width="1px"></line>
+<rect x="853" y="173" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="853" y="173" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="ICUDJXCU"><line x1="815" y1="190" x2="815" y2="165" stroke="#000080" stroke-width="1px"></line>
+<rect x="813" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="813" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="JKHBVLLL"><line x1="485" y1="310" x2="485" y2="320" stroke="#000080" stroke-width="1px"></line>
+<line x1="485" y1="320" x2="445" y2="320" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="KQJAIKJH"><line x1="445" y1="360" x2="485" y2="360" stroke="#000080" stroke-width="1px"></line>
+<line x1="485" y1="360" x2="485" y2="350" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="UJQWTKLC"><line x1="715" y1="120" x2="795" y2="120" stroke="#000080" stroke-width="1px"></line>
+<line x1="795" y1="120" x2="795" y2="155" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="YOTKRVZQ"><line x1="820" y1="95" x2="815" y2="95" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="UDQQOODM"><line x1="360" y1="175" x2="315" y2="175" stroke="#000080" stroke-width="1px"></line>
+<line x1="315" y1="175" x2="315" y2="195" stroke="#000080" stroke-width="1px"></line>
+<rect x="313" y="193" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="313" y="193" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="HDAAAIBP"><line x1="695" y1="155" x2="660" y2="155" stroke="#000080" stroke-width="1px"></line>
+<line x1="660" y1="155" x2="660" y2="200" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="GNAKOTGC"><line x1="665" y1="120" x2="620" y2="120" stroke="#000080" stroke-width="1px"></line>
+<line x1="620" y1="120" x2="620" y2="165" stroke="#000080" stroke-width="1px"></line>
+<rect x="618" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="618" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="ZCZMXSVZ"><line x1="695" y1="165" x2="620" y2="165" stroke="#000080" stroke-width="1px"></line>
+<line x1="620" y1="165" x2="620" y2="210" stroke="#000080" stroke-width="1px"></line>
+<rect x="618" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="618" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="ZLEPTKFW"><line x1="315" y1="195" x2="320" y2="195" stroke="#000080" stroke-width="1px"></line>
+<rect x="313" y="193" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="313" y="193" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="EIYBZUOW"><line x1="685" y1="275" x2="685" y2="285" stroke="#000080" stroke-width="1px"></line>
+<line x1="685" y1="285" x2="631.9841" y2="285" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="LFTEVQWP"><line x1="660" y1="270" x2="631.4771" y2="270" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="QJFVZJST"><line x1="395" y1="320" x2="380" y2="320" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="WBOIVGKS"><line x1="395" y1="360" x2="380" y2="360" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="HKDPDCCZ"><line x1="655" y1="320" x2="650" y2="320" stroke="#000080" stroke-width="1px"></line>
+<line x1="650" y1="320" x2="635" y2="320" stroke="#000080" stroke-width="1px"></line>
+<rect x="648" y="318" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="318" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="IOFZZMGT"><line x1="655" y1="360" x2="650" y2="360" stroke="#000080" stroke-width="1px"></line>
+<line x1="650" y1="360" x2="634.9735" y2="360" stroke="#000080" stroke-width="1px"></line>
+<rect x="648" y="358" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="648" y="358" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="SHQOBRER"><line x1="900" y1="95" x2="950" y2="95" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="FEJGDXUS"><line x1="795" y1="165" x2="815" y2="165" stroke="#000080" stroke-width="1px"></line>
+<line x1="815" y1="165" x2="950" y2="165" stroke="#000080" stroke-width="1px"></line>
+<rect x="813" y="163" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="813" y="163" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="VWJLFAOF"><line x1="795" y1="175" x2="855" y2="175" stroke="#000080" stroke-width="1px"></line>
+<line x1="855" y1="175" x2="950" y2="175" stroke="#000080" stroke-width="1px"></line>
+<rect x="853" y="173" width="4" height="4" rx="2" ry="2" fill="#000080" fill-opacity="1"></rect>
+<rect x="853" y="173" width="4" height="4" stroke="#000080" stroke-width="0.5px" vector-effect="non-scaling-stroke" rx="2" ry="2"></rect>
+</g>
+<g id="DMFMZELY"><line x1="745" y1="340" x2="765" y2="340" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="ILAEBOUR"><line x1="285" y1="465" x2="255" y2="465" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="WKINRTRT"><line x1="285" y1="410" x2="255" y2="410" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="CXZPQWJP"><line x1="285" y1="355" x2="255" y2="355" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="RRBJZLUJ"><line x1="285" y1="300" x2="255" y2="300" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="SQMIXSEP"><line x1="285" y1="245" x2="255" y2="245" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="EFKWEHSB"><line x1="285" y1="190" x2="255" y2="190" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="JZFAQXSF"><line x1="285" y1="135" x2="255" y2="135" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="AANSUNXR"><line x1="285" y1="80" x2="255" y2="80" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="RTMETPDW"><line x1="120" y1="80" x2="150" y2="80" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="RYAZAMKU"><line x1="120" y1="135" x2="150" y2="135" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="TIHGULFU"><line x1="120" y1="190" x2="150" y2="190" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="TCEYZZYH"><line x1="120" y1="245" x2="150" y2="245" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="UZKSBRGD"><line x1="120" y1="300" x2="150" y2="300" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="ATFABRSC"><line x1="120" y1="355" x2="150" y2="355" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="BDZMNOSR"><line x1="120" y1="410" x2="150" y2="410" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="XHUJYLCJ"><line x1="120" y1="465" x2="150" y2="465" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="OEOTSYEK"><line x1="360" y1="165" x2="330" y2="165" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="SOJSGXCQ"><line x1="360" y1="155" x2="330" y2="155" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="CLCWZMTM"><line x1="360" y1="145" x2="330" y2="145" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="CRIQEBMR"><line x1="360" y1="135" x2="330" y2="135" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="GQWXTBKJ"><line x1="360" y1="125" x2="330" y2="125" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="VZFENOEE"><line x1="360" y1="115" x2="330" y2="115" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="MJEWMBHZ"><line x1="360" y1="105" x2="330" y2="105" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="OZNERLBP"><line x1="360" y1="95" x2="330" y2="95" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="XCIAMRGH"><line x1="530" y1="165" x2="510" y2="165" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="165" x2="500" y2="165" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="AIKGFWMG"><line x1="530" y1="155" x2="510" y2="155" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="155" x2="500" y2="155" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="LBJALABB"><line x1="530" y1="145" x2="510" y2="145" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="145" x2="500" y2="145" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="DNTOMYIN"><line x1="530" y1="135" x2="510" y2="135" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="135" x2="500" y2="135" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="WUKDUHWV"><line x1="530" y1="125" x2="510" y2="125" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="125" x2="500" y2="125" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="ZFHNUHIT"><line x1="530" y1="115" x2="510" y2="115" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="115" x2="500" y2="115" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="XRYQPUQX"><line x1="530" y1="105" x2="510" y2="105" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="105" x2="500" y2="105" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="AHXYYRUB"><line x1="530" y1="95" x2="510" y2="95" stroke="#000080" stroke-width="1px"></line>
+<line x1="510" y1="95" x2="500" y2="95" stroke="#000080" stroke-width="1px"></line>
+</g>
+<g id="MDJQTIKV"><polygon points="687,472 687,422 882,422 882,462 872,472" fill="#E0DDD7" fill-opacity="0.49019607843137253"></polygon><polygon points="687,472 687,422 882,422 882,462 872,472" stroke="#BFBDBA" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><polygon points="685,470 685,420 880,420 880,460 870,470" fill="#FFFF96" fill-opacity="1"></polygon><polygon points="685,470 685,420 880,420 880,460 870,470" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><g> <clipPath id="ClipRect4"> <rect x="690" y="425" width="185" height="40"></rect></clipPath><text clip-path="url(#ClipRect4)" x="690" y="434" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">O L9616-TR é o controlador que irá fazer a ponte </text>
+</g><g> <clipPath id="ClipRect5"> <rect x="690" y="425" width="185" height="40"></rect></clipPath><text clip-path="url(#ClipRect5)" x="690" y="444" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">na comunicação entre o microcontrolador e os </text>
+</g><g> <clipPath id="ClipRect6"> <rect x="690" y="425" width="185" height="40"></rect></clipPath><text clip-path="url(#ClipRect6)" x="690" y="454" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">outros componentes desta e das demais placas do </text>
+</g><g> <clipPath id="ClipRect7"> <rect x="690" y="425" width="185" height="40"></rect></clipPath><text clip-path="url(#ClipRect7)" x="690" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">carro.
+</text>
+</g><polygon points="870,460 870,470 880,460" fill="#F2F0D8" fill-opacity="1"></polygon><polygon points="870,460 870,470 880,460" stroke="#BFBDBA" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><polygon points="686,425 690,425 688,422" fill="#FFCC78" fill-opacity="1"></polygon><polygon points="686,425 690,425 688,422" stroke="#330000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon></g>
+<g id="XHEJVFBI"><polygon points="317,552 317,412 537,412 537,542 527,552" fill="#E0DDD7" fill-opacity="0.49019607843137253"></polygon><polygon points="317,552 317,412 537,412 537,542 527,552" stroke="#BFBDBA" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><polygon points="315,550 315,410 535,410 535,540 525,550" fill="#FFFF96" fill-opacity="1"></polygon><polygon points="315,550 315,410 535,410 535,540 525,550" stroke="#000000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><g> <clipPath id="ClipRect8"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect8)" x="320" y="424" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">O barramento I2C opera em arquitetura Open-Drain </text>
+</g><g> <clipPath id="ClipRect9"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect9)" x="320" y="434" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">(dreno aberto), o que significa que os componentes da </text>
+</g><g> <clipPath id="ClipRect10"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect10)" x="320" y="444" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">rede só conseguem puxar os sinais para o nível lógico </text>
+</g><g> <clipPath id="ClipRect11"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect11)" x="320" y="454" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">baixo (0V), sendo incapazes de fornecer tensão </text>
+</g><g> <clipPath id="ClipRect12"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect12)" x="320" y="464" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">diretamente para o nível alto. O bloco I2C BUS PULL </text>
+</g><g> <clipPath id="ClipRect13"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect13)" x="320" y="474" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">UP utiliza resistores (R7 e R8 de 4.7kOhm) conectados à </text>
+</g><g> <clipPath id="ClipRect14"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect14)" x="320" y="484" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">linha de 3.3V para garantir que as vias de dados (SDA) e </text>
+</g><g> <clipPath id="ClipRect15"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect15)" x="320" y="494" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">relógio (SCL) permaneçam ativas em nível lógico alto (1) </text>
+</g><g> <clipPath id="ClipRect16"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect16)" x="320" y="504" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">quando em repouso. Esse arranjo possibilita a </text>
+</g><g> <clipPath id="ClipRect17"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect17)" x="320" y="514" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">comunicação bidirecional estável entre o STM32 e os </text>
+</g><g> <clipPath id="ClipRect18"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect18)" x="320" y="524" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">sensores, evitando que os pinos fiquem flutuando e </text>
+</g><g> <clipPath id="ClipRect19"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect19)" x="320" y="534" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">prevenindo curtos-circuitos caso múltiplos dispositivos </text>
+</g><g> <clipPath id="ClipRect20"> <rect x="320" y="415" width="210" height="130"></rect></clipPath><text clip-path="url(#ClipRect20)" x="320" y="544" font-size="9px" font-family="Times New Roman" fill="#000000" xml:space="preserve">tentem barrar a linha simultaneamente.</text>
+</g><polygon points="525,540 525,550 535,540" fill="#F2F0D8" fill-opacity="1"></polygon><polygon points="525,540 525,550 535,540" stroke="#BFBDBA" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon><polygon points="316,415 320,415 318,412" fill="#FFCC78" fill-opacity="1"></polygon><polygon points="316,415 320,415 318,412" stroke="#330000" stroke-width="0.5px" vector-effect="non-scaling-stroke"></polygon></g>
+</g>
+</g>
+</g>
+<g id="sceneSelectionMask"><rect width="1000" height="600" mask="url(#scene_selection_mask)" fill="grey" style="visibility: hidden;"></rect><path stroke="blue" stroke-width="3px" mask="url(#scene_selection_mask)" style="visibility: hidden;"></path></g><g id="sceneSelection"></g><g id="sceneHighlight"></g><g id="sceneActiveObjects"><rect x="784.2000122070312" y="190" width="40.79998779296875" height="20.600006103515625" class="activeMouse" data_id="ZUYMRQZF" data_type="1"></rect><rect x="845" y="190" width="39.10003662109375" height="20.600006103515625" class="activeMouse" data_id="DQJWDRJL" data_type="1"></rect><rect x="655" y="300" width="93.19903564453125" height="81.60000610351562" class="activeMouse" data_id="QOADAIBX" data_type="1"></rect><rect x="695" y="136" width="100" height="69.60000610351562" class="activeMouse" data_id="SHVDRPJB" data_type="1"></rect><rect x="360" y="76" width="140" height="149.60000610351562" class="activeMouse" data_id="TPGYYQNV" data_type="1"></rect><rect x="192.05979919433594" y="445" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="ATZVJGBU" data_type="1"></rect><rect x="57.059791564941406" y="60" width="72.6152114868164" height="51.599998474121094" class="activeMouse" data_id="UMOQTTSK" data_type="1"></rect><rect x="192.05979919433594" y="60" width="72.61518859863281" height="51.599998474121094" class="activeMouse" data_id="NNNNFZEA" data_type="1"></rect><rect x="57.059791564941406" y="115" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="GXGJAPFG" data_type="1"></rect><rect x="192.05979919433594" y="115" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="OCKLDPBV" data_type="1"></rect><rect x="57.059791564941406" y="170" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="WLLALYCM" data_type="1"></rect><rect x="192.05979919433594" y="170" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="XBOJVEME" data_type="1"></rect><rect x="57.059791564941406" y="225" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="AORIEZSH" data_type="1"></rect><rect x="192.05979919433594" y="225" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="FPJJLSMG" data_type="1"></rect><rect x="57.059791564941406" y="280" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="VQHNZKWW" data_type="1"></rect><rect x="192.05979919433594" y="280" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="FZXSWGLQ" data_type="1"></rect><rect x="57.059791564941406" y="335" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="GOAVYULK" data_type="1"></rect><rect x="192.05979919433594" y="335" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="PSBKVYHC" data_type="1"></rect><rect x="57.059791564941406" y="390" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="JLWULNRI" data_type="1"></rect><rect x="192.05979919433594" y="390" width="72.61518859863281" height="51.600006103515625" class="activeMouse" data_id="PREZSRKL" data_type="1"></rect><rect x="57.059791564941406" y="445" width="72.6152114868164" height="51.600006103515625" class="activeMouse" data_id="AIMWLOYS" data_type="1"></rect><rect x="663.6652221679688" y="106.80000305175781" width="54.134765625" height="27.800003051757812" class="activeMouse" data_id="TBBDWPTX" data_type="1"></rect><rect x="806" y="95" width="35.70001220703125" height="72" class="activeMouse" data_id="BWQDWUCL" data_type="1"></rect><rect x="651" y="200" width="31.20001220703125" height="70" class="activeMouse" data_id="LEKERGCK" data_type="1"></rect><rect x="676" y="205" width="31.20001220703125" height="70" class="activeMouse" data_id="QBWSUJZD" data_type="1"></rect><rect x="393.6651916503906" y="306.8000183105469" width="54.134796142578125" height="27.79998779296875" class="activeMouse" data_id="NBYPUGDR" data_type="1"></rect><rect x="393.6651916503906" y="346.8000183105469" width="54.134796142578125" height="27.79998779296875" class="activeMouse" data_id="DRBQKRLF" data_type="1"></rect><rect x="320" y="183" width="40" height="25.600006103515625" class="activeMouse" data_id="RMLGPJUD" data_type="1"></rect><rect x="820" y="79.3652572631836" width="98.80694580078125" height="29.2347412109375" class="activeMouse" data_id="ZUFCWZXV" data_type="1"></rect><rect x="646" y="332.8000183105469" width="27.125" height="29.199981689453125" class="activeMouse" data_id="ZLCIQGEG" data_type="1"></rect><rect x="646" y="292.8000183105469" width="26.9398193359375" height="29.199981689453125" class="activeMouse" data_id="IOHGTCUQ" data_type="1"></rect><rect x="910" y="166" width="30.701953887939453" height="9.600000381469727" class="activeMouse" data_id="SLXYNBRN" data_type="8"></rect><rect x="910" y="86" width="30.701953887939453" height="9.600000381469727" class="activeMouse" data_id="ALCJGSPR" data_type="8"></rect><rect x="910" y="156" width="28.512500762939453" height="9.600000381469727" class="activeMouse" data_id="KNTUCAQG" data_type="8"></rect><rect x="259.20001220703125" y="456" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="KPOXRSYH" data_type="8"></rect><rect x="509.20001220703125" y="156" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="VULKRUFP" data_type="8"></rect><rect x="124.20000457763672" y="71" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="AIJEYPPK" data_type="8"></rect><rect x="509.20001220703125" y="146" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="FBWUJIYA" data_type="8"></rect><rect x="259.20001220703125" y="71" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="FJJFQOZK" data_type="8"></rect><rect x="509.20001220703125" y="136" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="FGCVLHDO" data_type="8"></rect><rect x="124.20000457763672" y="126" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="ZBSBIGEN" data_type="8"></rect><rect x="509.20001220703125" y="126" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="GROGNRBD" data_type="8"></rect><rect x="259.20001220703125" y="126" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="RDCNQKGD" data_type="8"></rect><rect x="509.20001220703125" y="116" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="NFRYZOTM" data_type="8"></rect><rect x="124.20000457763672" y="181" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="UIDTXIEQ" data_type="8"></rect><rect x="509.20001220703125" y="106" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="ZYJQVPFS" data_type="8"></rect><rect x="259.20001220703125" y="181" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="XCNXKXSM" data_type="8"></rect><rect x="509.20001220703125" y="96" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="EJFKKCBA" data_type="8"></rect><rect x="124.20000457763672" y="236" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="BQRHXKUE" data_type="8"></rect><rect x="509.20001220703125" y="86" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="OVZRVRJG" data_type="8"></rect><rect x="259.20001220703125" y="236" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="CMOGRRSR" data_type="8"></rect><rect x="329.20001220703125" y="86" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="TBFFDGMP" data_type="8"></rect><rect x="124.20000457763672" y="291" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="UWGFDUYH" data_type="8"></rect><rect x="329.20001220703125" y="96" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="NNBBMIET" data_type="8"></rect><rect x="259.20001220703125" y="291" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="YNYNFVAG" data_type="8"></rect><rect x="329.20001220703125" y="106" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="XJEFSSDF" data_type="8"></rect><rect x="124.20000457763672" y="346" width="23.462499618530273" height="9.600000381469727" class="activeMouse" data_id="SJKWSAAO" data_type="8"></rect><rect x="329.20001220703125" y="116" width="23.462499618530273" height="9.600000381469727" class="activeMouse" data_id="PSBZMSZD" data_type="8"></rect><rect x="259.20001220703125" y="346" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="AOXGRDMM" data_type="8"></rect><rect x="329.20001220703125" y="126" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="GRWESYTB" data_type="8"></rect><rect x="124.20000457763672" y="401" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="ADONUKVS" data_type="8"></rect><rect x="329.20001220703125" y="136" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="TPETVBDG" data_type="8"></rect><rect x="259.20001220703125" y="401" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="MWBULYKK" data_type="8"></rect><rect x="329.20001220703125" y="146" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="ZVWIUZSH" data_type="8"></rect><rect x="124.20000457763672" y="456" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="ETDIYHMP" data_type="8"></rect><rect x="329.20001220703125" y="156" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="SOFAPVHU" data_type="8"></rect><g data_id="0" data_type="2"><rect x="357" y="202" width="26" height="6" class="activeMouse" data_id="RPYLQAWS" data_type="3"></rect><rect x="432" y="317" width="16" height="6" class="activeMouse" data_id="XISOBBYU" data_type="3"></rect><rect x="432" y="357" width="16" height="6" class="activeMouse" data_id="QAUWTRAW" data_type="3"></rect></g><g data_id="1" data_type="2"><rect x="57" y="187" width="16" height="6" class="activeMouse" data_id="NWFSTLFZ" data_type="3"></rect><rect x="192" y="132" width="16" height="6" class="activeMouse" data_id="XZNQFWJS" data_type="3"></rect><rect x="57" y="132" width="16" height="6" class="activeMouse" data_id="ZLGOBPTI" data_type="3"></rect><rect x="192" y="77" width="16" height="6" class="activeMouse" data_id="PRIEPVWJ" data_type="3"></rect><rect x="57" y="77" width="16" height="6" class="activeMouse" data_id="IUZKTUEF" data_type="3"></rect><rect x="192" y="462" width="16" height="6" class="activeMouse" data_id="GOAHCILN" data_type="3"></rect><rect x="57" y="462" width="16" height="6" class="activeMouse" data_id="LHKBQBOK" data_type="3"></rect><rect x="192" y="407" width="16" height="6" class="activeMouse" data_id="THHHWJHA" data_type="3"></rect><rect x="57" y="407" width="16" height="6" class="activeMouse" data_id="OETJEFTQ" data_type="3"></rect><rect x="192" y="352" width="16" height="6" class="activeMouse" data_id="NXWXVKMK" data_type="3"></rect><rect x="57" y="352" width="16" height="6" class="activeMouse" data_id="HNPACJUC" data_type="3"></rect><rect x="192" y="297" width="16" height="6" class="activeMouse" data_id="JBSNNOEO" data_type="3"></rect><rect x="57" y="297" width="16" height="6" class="activeMouse" data_id="TBOQBSUA" data_type="3"></rect><rect x="192" y="242" width="16" height="6" class="activeMouse" data_id="OYWPGVSI" data_type="3"></rect><rect x="57" y="242" width="16" height="6" class="activeMouse" data_id="HTYPCQMH" data_type="3"></rect><rect x="192" y="187" width="16" height="6" class="activeMouse" data_id="ONZIYKBV" data_type="3"></rect><rect x="692" y="172" width="26" height="6" class="activeMouse" data_id="IIIJGQAI" data_type="3"></rect></g><g data_id="4" data_type="2"><rect x="652" y="357" width="26" height="6" class="activeMouse" data_id="JTIVSVRO" data_type="3"></rect><g data_id="OMQBAUBW" data_type="3"><rect x="867" y="92" width="36" height="6" class="activeMouse"></rect><rect x="867" y="90" width="12" height="10" class="activeMouse"></rect><rect x="867" y="90" width="12" height="10" class="activeMouse"></rect></g><rect x="852" y="187" width="6" height="13" class="activeMouse" data_id="ITOIWAOZ" data_type="3"></rect><rect x="772" y="172" width="26" height="6" class="activeMouse" data_id="DCAACRVD" data_type="3"></rect><rect x="910" y="166" width="30.701953887939453" height="9.600000381469727" class="activeMouse" data_id="SLXYNBRN" data_type="3"></rect><rect x="910" y="86" width="30.701953887939453" height="9.600000381469727" class="activeMouse" data_id="ALCJGSPR" data_type="3"></rect><g data_id="VWJLFAOF" data_type="3"><rect x="792" y="172" width="66" height="6" class="activeMouse"></rect><rect x="852" y="172" width="101" height="6" class="activeMouse"></rect><rect x="850" y="170" width="10" height="10" class="activeMouse"></rect><rect x="850" y="170" width="10" height="10" class="activeMouse"></rect></g><g data_id="XXTYSTBZ" data_type="3"><rect x="852" y="172" width="6" height="21" class="activeMouse"></rect><rect x="850" y="170" width="10" height="10" class="activeMouse"></rect><rect x="850" y="170" width="10" height="10" class="activeMouse"></rect></g><rect x="897" y="92" width="56" height="6" class="activeMouse" data_id="SHQOBRER" data_type="3"></rect><g data_id="UVEZRAHX" data_type="3"><rect x="647" y="347" width="6" height="16" class="activeMouse"></rect><rect x="645" y="355" width="10" height="10" class="activeMouse"></rect><rect x="645" y="355" width="10" height="10" class="activeMouse"></rect></g><g data_id="IOFZZMGT" data_type="3"><rect x="647" y="357" width="11" height="6" class="activeMouse"></rect><rect x="631.9735107421875" y="357" width="21.0264892578125" height="6" class="activeMouse"></rect><rect x="645" y="355" width="10" height="10" class="activeMouse"></rect><rect x="645" y="355" width="10" height="10" class="activeMouse"></rect></g><g data_id="BGYSMDWU" data_type="3"><rect x="582" y="352" width="55.9735107421875" height="16" class="activeMouse"></rect><rect x="582" y="352" width="55.9735107421875" height="16" class="activeMouse"></rect></g></g><g data_id="5" data_type="2"><rect x="652" y="317" width="26" height="6" class="activeMouse" data_id="GMMAEOWL" data_type="3"></rect><g data_id="HUHBTGTG" data_type="3"><rect x="812" y="142" width="6" height="26" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect></g><rect x="812" y="187" width="6" height="13" class="activeMouse" data_id="YJOMKELH" data_type="3"></rect><rect x="772" y="162" width="26" height="6" class="activeMouse" data_id="QKNCGVDD" data_type="3"></rect><rect x="910" y="156" width="28.512500762939453" height="9.600000381469727" class="activeMouse" data_id="KNTUCAQG" data_type="3"></rect><g data_id="FEJGDXUS" data_type="3"><rect x="792" y="162" width="26" height="6" class="activeMouse"></rect><rect x="812" y="162" width="141" height="6" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect></g><g data_id="ICUDJXCU" data_type="3"><rect x="812" y="162" width="6" height="31" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect><rect x="810" y="160" width="10" height="10" class="activeMouse"></rect></g><g data_id="ZPJYGNCJ" data_type="3"><rect x="647" y="307" width="6" height="16" class="activeMouse"></rect><rect x="645" y="315" width="10" height="10" class="activeMouse"></rect><rect x="645" y="315" width="10" height="10" class="activeMouse"></rect></g><g data_id="HKDPDCCZ" data_type="3"><rect x="647" y="317" width="11" height="6" class="activeMouse"></rect><rect x="632" y="317" width="21" height="6" class="activeMouse"></rect><rect x="645" y="315" width="10" height="10" class="activeMouse"></rect><rect x="645" y="315" width="10" height="10" class="activeMouse"></rect></g><g data_id="OOUEGAQY" data_type="3"><rect x="582" y="312" width="56" height="16" class="activeMouse"></rect><rect x="582" y="312" width="56" height="16" class="activeMouse"></rect></g></g><g data_id="36" data_type="2"><rect x="682" y="252" width="6" height="26" class="activeMouse" data_id="USGJIMAA" data_type="3"></rect><g data_id="EIYBZUOW" data_type="3"><rect x="682" y="272" width="6" height="16" class="activeMouse"></rect><rect x="628.9840698242188" y="282" width="59.01593017578125" height="6" class="activeMouse"></rect></g><g data_id="NCWWPYJL" data_type="3"><rect x="582" y="277" width="52.98406982421875" height="16" class="activeMouse"></rect><rect x="582" y="277" width="52.98406982421875" height="16" class="activeMouse"></rect></g></g><g data_id="37" data_type="2"><rect x="657" y="247" width="6" height="26" class="activeMouse" data_id="FUQPYKJH" data_type="3"></rect><rect x="628.4771118164062" y="267" width="34.52288818359375" height="6" class="activeMouse" data_id="LFTEVQWP" data_type="3"></rect><g data_id="SFRABFCQ" data_type="3"><rect x="582" y="262" width="52.47711181640625" height="16" class="activeMouse"></rect><rect x="582" y="262" width="52.47711181640625" height="16" class="activeMouse"></rect></g></g><g data_id="53" data_type="2"><rect x="722" y="337" width="26" height="6" class="activeMouse" data_id="YVBDJJVJ" data_type="3"></rect><rect x="357" y="172" width="26" height="6" class="activeMouse" data_id="AFPHGWZP" data_type="3"></rect><rect x="477" y="202" width="26" height="6" class="activeMouse" data_id="LVAMMAXG" data_type="3"></rect><rect x="317" y="192" width="16" height="6" class="activeMouse" data_id="TGYWFPDU" data_type="3"></rect><rect x="812" y="201" width="6" height="12" class="activeMouse" data_id="PVVFRLDF" data_type="3"></rect><rect x="852" y="201" width="6" height="12" class="activeMouse" data_id="MXLXMKHV" data_type="3"></rect><rect x="662" y="117" width="16" height="6" class="activeMouse" data_id="OZBGLAOP" data_type="3"></rect><rect x="692" y="162" width="26" height="6" class="activeMouse" data_id="MNBGJQRH" data_type="3"></rect><g data_id="HNOHHUAY" data_type="3"><rect x="302" y="202" width="26" height="6" class="activeMouse"></rect><rect x="302" y="202" width="16" height="16" class="activeMouse"></rect><rect x="312" y="202" width="16" height="16" class="activeMouse"></rect><rect x="312" y="192" width="6" height="16" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect></g><g data_id="JOMVYLSW" data_type="3"><rect x="487" y="212" width="26" height="6" class="activeMouse"></rect><rect x="487" y="212" width="16" height="16" class="activeMouse"></rect><rect x="497" y="212" width="16" height="16" class="activeMouse"></rect><rect x="497" y="202" width="6" height="16" class="activeMouse"></rect></g><g data_id="IIAWNNNX" data_type="3"><rect x="607" y="217" width="26" height="6" class="activeMouse"></rect><rect x="607" y="217" width="16" height="16" class="activeMouse"></rect><rect x="617" y="217" width="16" height="16" class="activeMouse"></rect><rect x="617" y="207" width="6" height="16" class="activeMouse"></rect></g><g data_id="HHMKNFRC" data_type="3"><rect x="752" y="347" width="26" height="6" class="activeMouse"></rect><rect x="752" y="347" width="16" height="16" class="activeMouse"></rect><rect x="762" y="347" width="16" height="16" class="activeMouse"></rect><rect x="762" y="337" width="6" height="16" class="activeMouse"></rect></g><g data_id="CRKJIGZK" data_type="3"><rect x="802" y="227" width="26" height="6" class="activeMouse"></rect><rect x="802" y="227" width="16" height="16" class="activeMouse"></rect><rect x="812" y="227" width="16" height="16" class="activeMouse"></rect><rect x="812" y="217" width="6" height="16" class="activeMouse"></rect></g><g data_id="TRJBMXQS" data_type="3"><rect x="842" y="227" width="26" height="6" class="activeMouse"></rect><rect x="842" y="227" width="16" height="16" class="activeMouse"></rect><rect x="852" y="227" width="16" height="16" class="activeMouse"></rect><rect x="852" y="217" width="6" height="16" class="activeMouse"></rect></g><g data_id="UDQQOODM" data_type="3"><rect x="312" y="172" width="51" height="6" class="activeMouse"></rect><rect x="312" y="172" width="6" height="26" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect></g><g data_id="ZLEPTKFW" data_type="3"><rect x="312" y="192" width="11" height="6" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect><rect x="310" y="190" width="10" height="10" class="activeMouse"></rect></g><g data_id="ZCZMXSVZ" data_type="3"><rect x="617" y="162" width="81" height="6" class="activeMouse"></rect><rect x="617" y="162" width="6" height="51" class="activeMouse"></rect><rect x="615" y="160" width="10" height="10" class="activeMouse"></rect><rect x="615" y="160" width="10" height="10" class="activeMouse"></rect></g><g data_id="GNAKOTGC" data_type="3"><rect x="617" y="117" width="51" height="6" class="activeMouse"></rect><rect x="617" y="117" width="6" height="51" class="activeMouse"></rect><rect x="615" y="160" width="10" height="10" class="activeMouse"></rect><rect x="615" y="160" width="10" height="10" class="activeMouse"></rect></g><rect x="742" y="337" width="26" height="6" class="activeMouse" data_id="DMFMZELY" data_type="3"></rect><rect x="812" y="207" width="6" height="16" class="activeMouse" data_id="ETETCLNO" data_type="3"></rect><rect x="852" y="207" width="6" height="16" class="activeMouse" data_id="RUMGLRCD" data_type="3"></rect></g><g data_id="55" data_type="2"><rect x="477" y="172" width="26" height="6" class="activeMouse" data_id="UTJGZPXQ" data_type="3"></rect><g data_id="OSRLCTRZ" data_type="3"><rect x="497" y="167" width="56" height="16" class="activeMouse"></rect><rect x="497" y="167" width="56" height="16" class="activeMouse"></rect></g></g><g data_id="56" data_type="2"><rect x="242" y="462" width="16" height="6" class="activeMouse" data_id="TOPWNLKU" data_type="3"></rect><rect x="477" y="162" width="26" height="6" class="activeMouse" data_id="SISOUELU" data_type="3"></rect><rect x="259.20001220703125" y="456" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="KPOXRSYH" data_type="3"></rect><rect x="509.20001220703125" y="156" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="VULKRUFP" data_type="3"></rect><rect x="252" y="462" width="36" height="6" class="activeMouse" data_id="ILAEBOUR" data_type="3"></rect><g data_id="XCIAMRGH" data_type="3"><rect x="507" y="162" width="26" height="6" class="activeMouse"></rect><rect x="497" y="162" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="57" data_type="2"><rect x="107" y="77" width="16" height="6" class="activeMouse" data_id="IVQOADFW" data_type="3"></rect><rect x="477" y="152" width="26" height="6" class="activeMouse" data_id="TYRZBOEC" data_type="3"></rect><rect x="124.20000457763672" y="71" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="AIJEYPPK" data_type="3"></rect><rect x="509.20001220703125" y="146" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="FBWUJIYA" data_type="3"></rect><rect x="117" y="77" width="36" height="6" class="activeMouse" data_id="RTMETPDW" data_type="3"></rect><g data_id="AIKGFWMG" data_type="3"><rect x="507" y="152" width="26" height="6" class="activeMouse"></rect><rect x="497" y="152" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="58" data_type="2"><rect x="242" y="77" width="16" height="6" class="activeMouse" data_id="FPDPSNBY" data_type="3"></rect><rect x="477" y="142" width="26" height="6" class="activeMouse" data_id="QKUMZZUS" data_type="3"></rect><rect x="259.20001220703125" y="71" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="FJJFQOZK" data_type="3"></rect><rect x="509.20001220703125" y="136" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="FGCVLHDO" data_type="3"></rect><rect x="252" y="77" width="36" height="6" class="activeMouse" data_id="AANSUNXR" data_type="3"></rect><g data_id="LBJALABB" data_type="3"><rect x="507" y="142" width="26" height="6" class="activeMouse"></rect><rect x="497" y="142" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="59" data_type="2"><rect x="107" y="132" width="16" height="6" class="activeMouse" data_id="XAOTIDWI" data_type="3"></rect><rect x="477" y="132" width="26" height="6" class="activeMouse" data_id="XVSSRRHB" data_type="3"></rect><rect x="124.20000457763672" y="126" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="ZBSBIGEN" data_type="3"></rect><rect x="509.20001220703125" y="126" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="GROGNRBD" data_type="3"></rect><rect x="117" y="132" width="36" height="6" class="activeMouse" data_id="RYAZAMKU" data_type="3"></rect><g data_id="DNTOMYIN" data_type="3"><rect x="507" y="132" width="26" height="6" class="activeMouse"></rect><rect x="497" y="132" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="60" data_type="2"><rect x="242" y="132" width="16" height="6" class="activeMouse" data_id="WXDKMAVG" data_type="3"></rect><rect x="477" y="122" width="26" height="6" class="activeMouse" data_id="BQYDGXWM" data_type="3"></rect><rect x="259.20001220703125" y="126" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="RDCNQKGD" data_type="3"></rect><rect x="509.20001220703125" y="116" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="NFRYZOTM" data_type="3"></rect><rect x="252" y="132" width="36" height="6" class="activeMouse" data_id="JZFAQXSF" data_type="3"></rect><g data_id="WUKDUHWV" data_type="3"><rect x="507" y="122" width="26" height="6" class="activeMouse"></rect><rect x="497" y="122" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="61" data_type="2"><rect x="107" y="187" width="16" height="6" class="activeMouse" data_id="PGZAJZZP" data_type="3"></rect><rect x="477" y="112" width="26" height="6" class="activeMouse" data_id="IYRBBYDF" data_type="3"></rect><rect x="124.20000457763672" y="181" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="UIDTXIEQ" data_type="3"></rect><rect x="509.20001220703125" y="106" width="19.30000114440918" height="9.600000381469727" class="activeMouse" data_id="ZYJQVPFS" data_type="3"></rect><rect x="117" y="187" width="36" height="6" class="activeMouse" data_id="TIHGULFU" data_type="3"></rect><g data_id="ZFHNUHIT" data_type="3"><rect x="507" y="112" width="26" height="6" class="activeMouse"></rect><rect x="497" y="112" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="62" data_type="2"><rect x="477" y="102" width="26" height="6" class="activeMouse" data_id="PGPOVKQT" data_type="3"></rect><rect x="242" y="187" width="16" height="6" class="activeMouse" data_id="DICTUUIZ" data_type="3"></rect><rect x="259.20001220703125" y="181" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="XCNXKXSM" data_type="3"></rect><rect x="509.20001220703125" y="96" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="EJFKKCBA" data_type="3"></rect><rect x="252" y="187" width="36" height="6" class="activeMouse" data_id="EFKWEHSB" data_type="3"></rect><g data_id="XRYQPUQX" data_type="3"><rect x="507" y="102" width="26" height="6" class="activeMouse"></rect><rect x="497" y="102" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="63" data_type="2"><rect x="477" y="92" width="26" height="6" class="activeMouse" data_id="NZQZMSDB" data_type="3"></rect><rect x="107" y="242" width="16" height="6" class="activeMouse" data_id="OWNNXZKE" data_type="3"></rect><rect x="124.20000457763672" y="236" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="BQRHXKUE" data_type="3"></rect><rect x="509.20001220703125" y="86" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="OVZRVRJG" data_type="3"></rect><rect x="117" y="242" width="36" height="6" class="activeMouse" data_id="TCEYZZYH" data_type="3"></rect><g data_id="AHXYYRUB" data_type="3"><rect x="507" y="92" width="26" height="6" class="activeMouse"></rect><rect x="497" y="92" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="64" data_type="2"><rect x="357" y="92" width="26" height="6" class="activeMouse" data_id="PLCRHEEV" data_type="3"></rect><rect x="242" y="242" width="16" height="6" class="activeMouse" data_id="HKVVYEWO" data_type="3"></rect><rect x="259.20001220703125" y="236" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="CMOGRRSR" data_type="3"></rect><rect x="329.20001220703125" y="86" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="TBFFDGMP" data_type="3"></rect><rect x="252" y="242" width="36" height="6" class="activeMouse" data_id="SQMIXSEP" data_type="3"></rect><rect x="327" y="92" width="36" height="6" class="activeMouse" data_id="OZNERLBP" data_type="3"></rect></g><g data_id="65" data_type="2"><rect x="357" y="102" width="26" height="6" class="activeMouse" data_id="UVYOOBZC" data_type="3"></rect><rect x="107" y="297" width="16" height="6" class="activeMouse" data_id="XOIUEFTO" data_type="3"></rect><rect x="124.20000457763672" y="291" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="UWGFDUYH" data_type="3"></rect><rect x="329.20001220703125" y="96" width="19.592187881469727" height="9.600000381469727" class="activeMouse" data_id="NNBBMIET" data_type="3"></rect><rect x="117" y="297" width="36" height="6" class="activeMouse" data_id="UZKSBRGD" data_type="3"></rect><rect x="327" y="102" width="36" height="6" class="activeMouse" data_id="MJEWMBHZ" data_type="3"></rect></g><g data_id="66" data_type="2"><rect x="357" y="112" width="26" height="6" class="activeMouse" data_id="YOBFSTKK" data_type="3"></rect><rect x="242" y="297" width="16" height="6" class="activeMouse" data_id="TFLOYVLI" data_type="3"></rect><rect x="259.20001220703125" y="291" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="YNYNFVAG" data_type="3"></rect><rect x="329.20001220703125" y="106" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="XJEFSSDF" data_type="3"></rect><rect x="252" y="297" width="36" height="6" class="activeMouse" data_id="RRBJZLUJ" data_type="3"></rect><rect x="327" y="112" width="36" height="6" class="activeMouse" data_id="VZFENOEE" data_type="3"></rect></g><g data_id="67" data_type="2"><rect x="357" y="122" width="26" height="6" class="activeMouse" data_id="IPGTIFZY" data_type="3"></rect><rect x="107" y="352" width="16" height="6" class="activeMouse" data_id="EEHBKOFH" data_type="3"></rect><rect x="124.20000457763672" y="346" width="23.462499618530273" height="9.600000381469727" class="activeMouse" data_id="SJKWSAAO" data_type="3"></rect><rect x="329.20001220703125" y="116" width="23.462499618530273" height="9.600000381469727" class="activeMouse" data_id="PSBZMSZD" data_type="3"></rect><rect x="117" y="352" width="36" height="6" class="activeMouse" data_id="ATFABRSC" data_type="3"></rect><rect x="327" y="122" width="36" height="6" class="activeMouse" data_id="GQWXTBKJ" data_type="3"></rect></g><g data_id="68" data_type="2"><rect x="357" y="132" width="26" height="6" class="activeMouse" data_id="JHKKKOMR" data_type="3"></rect><rect x="242" y="352" width="16" height="6" class="activeMouse" data_id="FRWUCPZD" data_type="3"></rect><rect x="259.20001220703125" y="346" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="AOXGRDMM" data_type="3"></rect><rect x="329.20001220703125" y="126" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="GRWESYTB" data_type="3"></rect><rect x="252" y="352" width="36" height="6" class="activeMouse" data_id="CXZPQWJP" data_type="3"></rect><rect x="327" y="132" width="36" height="6" class="activeMouse" data_id="CRIQEBMR" data_type="3"></rect></g><g data_id="69" data_type="2"><rect x="357" y="142" width="26" height="6" class="activeMouse" data_id="IRIYPSZY" data_type="3"></rect><rect x="107" y="407" width="16" height="6" class="activeMouse" data_id="PDIRTEVA" data_type="3"></rect><rect x="124.20000457763672" y="401" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="ADONUKVS" data_type="3"></rect><rect x="329.20001220703125" y="136" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="TPETVBDG" data_type="3"></rect><rect x="117" y="407" width="36" height="6" class="activeMouse" data_id="BDZMNOSR" data_type="3"></rect><rect x="327" y="142" width="36" height="6" class="activeMouse" data_id="CLCWZMTM" data_type="3"></rect></g><g data_id="70" data_type="2"><rect x="357" y="152" width="26" height="6" class="activeMouse" data_id="KWAMFPKU" data_type="3"></rect><rect x="242" y="407" width="16" height="6" class="activeMouse" data_id="TEEUTNQH" data_type="3"></rect><rect x="259.20001220703125" y="401" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="MWBULYKK" data_type="3"></rect><rect x="329.20001220703125" y="146" width="24.092187881469727" height="9.600000381469727" class="activeMouse" data_id="ZVWIUZSH" data_type="3"></rect><rect x="252" y="407" width="36" height="6" class="activeMouse" data_id="WKINRTRT" data_type="3"></rect><rect x="327" y="152" width="36" height="6" class="activeMouse" data_id="SOJSGXCQ" data_type="3"></rect></g><g data_id="71" data_type="2"><rect x="357" y="162" width="26" height="6" class="activeMouse" data_id="UPKLZSOO" data_type="3"></rect><rect x="107" y="462" width="16" height="6" class="activeMouse" data_id="WSWCFTBW" data_type="3"></rect><rect x="124.20000457763672" y="456" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="ETDIYHMP" data_type="3"></rect><rect x="329.20001220703125" y="156" width="23.80000114440918" height="9.600000381469727" class="activeMouse" data_id="SOFAPVHU" data_type="3"></rect><rect x="117" y="462" width="36" height="6" class="activeMouse" data_id="XHUJYLCJ" data_type="3"></rect><rect x="327" y="162" width="36" height="6" class="activeMouse" data_id="OEOTSYEK" data_type="3"></rect></g><g data_id="92" data_type="2"><rect x="657" y="197" width="6" height="26" class="activeMouse" data_id="PUKDYXWF" data_type="3"></rect><rect x="692" y="152" width="26" height="6" class="activeMouse" data_id="UWAJVSRU" data_type="3"></rect><g data_id="HDAAAIBP" data_type="3"><rect x="657" y="152" width="41" height="6" class="activeMouse"></rect><rect x="657" y="152" width="6" height="51" class="activeMouse"></rect></g></g><g data_id="93" data_type="2"><rect x="682" y="202" width="6" height="26" class="activeMouse" data_id="HAQTNVOY" data_type="3"></rect><rect x="692" y="182" width="26" height="6" class="activeMouse" data_id="LZYVKUUE" data_type="3"></rect><g data_id="FVTDUXXL" data_type="3"><rect x="682" y="182" width="6" height="26" class="activeMouse"></rect><rect x="682" y="182" width="16" height="6" class="activeMouse"></rect></g></g><g data_id="94" data_type="2"><rect x="702" y="117" width="16" height="6" class="activeMouse" data_id="RBHCTAYR" data_type="3"></rect><rect x="772" y="152" width="26" height="6" class="activeMouse" data_id="HWPUBIOT" data_type="3"></rect><g data_id="UJQWTKLC" data_type="3"><rect x="712" y="117" width="86" height="6" class="activeMouse"></rect><rect x="792" y="117" width="6" height="41" class="activeMouse"></rect></g></g><g data_id="95" data_type="2"><rect x="357" y="192" width="26" height="6" class="activeMouse" data_id="OIEBISQZ" data_type="3"></rect><rect x="347" y="192" width="16" height="6" class="activeMouse" data_id="FZEEJWGC" data_type="3"></rect></g><g data_id="135" data_type="2"><g data_id="NXZVUSRP" data_type="3"><rect x="817" y="92" width="36" height="6" class="activeMouse"></rect><rect x="841" y="90" width="12" height="10" class="activeMouse"></rect><rect x="841" y="90" width="12" height="10" class="activeMouse"></rect></g><rect x="812" y="92" width="6" height="26" class="activeMouse" data_id="JOFGLJUA" data_type="3"></rect><rect x="812" y="92" width="11" height="6" class="activeMouse" data_id="YOTKRVZQ" data_type="3"></rect></g><g data_id="142" data_type="2"><rect x="392" y="357" width="16" height="6" class="activeMouse" data_id="GNLPAPZF" data_type="3"></rect><rect x="377" y="357" width="21" height="6" class="activeMouse" data_id="WBOIVGKS" data_type="3"></rect><g data_id="WPGSTESH" data_type="3"><rect x="332" y="352" width="51" height="16" class="activeMouse"></rect><rect x="332" y="352" width="51" height="16" class="activeMouse"></rect></g></g><g data_id="143" data_type="2"><rect x="392" y="317" width="16" height="6" class="activeMouse" data_id="AGJCVGPY" data_type="3"></rect><rect x="377" y="317" width="21" height="6" class="activeMouse" data_id="QJFVZJST" data_type="3"></rect><g data_id="XVWDLOXP" data_type="3"><rect x="332" y="312" width="51" height="16" class="activeMouse"></rect><rect x="332" y="312" width="51" height="16" class="activeMouse"></rect></g></g><g data_id="144" data_type="2"><rect x="477" y="182" width="26" height="6" class="activeMouse" data_id="QUSKASYF" data_type="3"></rect><g data_id="TFPBIZRL" data_type="3"><rect x="497" y="177" width="57.18597412109375" height="16" class="activeMouse"></rect><rect x="497" y="177" width="57.18597412109375" height="16" class="activeMouse"></rect></g></g><g data_id="145" data_type="2"><rect x="477" y="192" width="26" height="6" class="activeMouse" data_id="QYGRLZLQ" data_type="3"></rect><g data_id="QSBVBPAL" data_type="3"><rect x="497" y="187" width="61.40997314453125" height="16" class="activeMouse"></rect><rect x="497" y="187" width="61.40997314453125" height="16" class="activeMouse"></rect></g></g><g data_id="152" data_type="2"><rect x="692" y="172" width="26" height="6" class="activeMouse" data_id="IIIJGQAI" data_type="3"></rect><rect x="192" y="462" width="16" height="6" class="activeMouse" data_id="GOAHCILN" data_type="3"></rect><rect x="57" y="77" width="16" height="6" class="activeMouse" data_id="IUZKTUEF" data_type="3"></rect><rect x="192" y="77" width="16" height="6" class="activeMouse" data_id="PRIEPVWJ" data_type="3"></rect><rect x="57" y="132" width="16" height="6" class="activeMouse" data_id="ZLGOBPTI" data_type="3"></rect><rect x="192" y="132" width="16" height="6" class="activeMouse" data_id="XZNQFWJS" data_type="3"></rect><rect x="57" y="187" width="16" height="6" class="activeMouse" data_id="NWFSTLFZ" data_type="3"></rect><rect x="192" y="187" width="16" height="6" class="activeMouse" data_id="ONZIYKBV" data_type="3"></rect><rect x="57" y="242" width="16" height="6" class="activeMouse" data_id="HTYPCQMH" data_type="3"></rect><rect x="192" y="242" width="16" height="6" class="activeMouse" data_id="OYWPGVSI" data_type="3"></rect><rect x="57" y="297" width="16" height="6" class="activeMouse" data_id="TBOQBSUA" data_type="3"></rect><rect x="192" y="297" width="16" height="6" class="activeMouse" data_id="JBSNNOEO" data_type="3"></rect><rect x="57" y="352" width="16" height="6" class="activeMouse" data_id="HNPACJUC" data_type="3"></rect><rect x="192" y="352" width="16" height="6" class="activeMouse" data_id="NXWXVKMK" data_type="3"></rect><rect x="57" y="407" width="16" height="6" class="activeMouse" data_id="OETJEFTQ" data_type="3"></rect><rect x="192" y="407" width="16" height="6" class="activeMouse" data_id="THHHWJHA" data_type="3"></rect><rect x="57" y="462" width="16" height="6" class="activeMouse" data_id="LHKBQBOK" data_type="3"></rect><g data_id="CTAPIWDE" data_type="3"><rect x="52" y="452" width="16" height="6" class="activeMouse"></rect><rect x="57" y="452" width="6" height="16" class="activeMouse"></rect></g><g data_id="CYXQMNLD" data_type="3"><rect x="52" y="397" width="16" height="6" class="activeMouse"></rect><rect x="57" y="397" width="6" height="16" class="activeMouse"></rect></g><g data_id="KOJHCLDJ" data_type="3"><rect x="52" y="342" width="16" height="6" class="activeMouse"></rect><rect x="57" y="342" width="6" height="16" class="activeMouse"></rect></g><g data_id="RBJORLZW" data_type="3"><rect x="52" y="287" width="16" height="6" class="activeMouse"></rect><rect x="57" y="287" width="6" height="16" class="activeMouse"></rect></g><g data_id="IBBXWVRC" data_type="3"><rect x="52" y="232" width="16" height="6" class="activeMouse"></rect><rect x="57" y="232" width="6" height="16" class="activeMouse"></rect></g><g data_id="IYZRAWCR" data_type="3"><rect x="52" y="177" width="16" height="6" class="activeMouse"></rect><rect x="57" y="177" width="6" height="16" class="activeMouse"></rect></g><g data_id="TICWAIEU" data_type="3"><rect x="52" y="122" width="16" height="6" class="activeMouse"></rect><rect x="57" y="122" width="6" height="16" class="activeMouse"></rect></g><g data_id="MLYXJZKT" data_type="3"><rect x="52" y="67" width="16" height="6" class="activeMouse"></rect><rect x="57" y="67" width="6" height="16" class="activeMouse"></rect></g><g data_id="XOFXZOYV" data_type="3"><rect x="187" y="452" width="16" height="6" class="activeMouse"></rect><rect x="192" y="452" width="6" height="16" class="activeMouse"></rect></g><g data_id="QRTXDWPZ" data_type="3"><rect x="187" y="397" width="16" height="6" class="activeMouse"></rect><rect x="192" y="397" width="6" height="16" class="activeMouse"></rect></g><g data_id="CNPYTWNZ" data_type="3"><rect x="187" y="342" width="16" height="6" class="activeMouse"></rect><rect x="192" y="342" width="6" height="16" class="activeMouse"></rect></g><g data_id="ZRBLJJAD" data_type="3"><rect x="187" y="287" width="16" height="6" class="activeMouse"></rect><rect x="192" y="287" width="6" height="16" class="activeMouse"></rect></g><g data_id="MEZRCHHX" data_type="3"><rect x="187" y="232" width="16" height="6" class="activeMouse"></rect><rect x="192" y="232" width="6" height="16" class="activeMouse"></rect></g><g data_id="ZWHNMCTJ" data_type="3"><rect x="187" y="177" width="16" height="6" class="activeMouse"></rect><rect x="192" y="177" width="6" height="16" class="activeMouse"></rect></g><g data_id="VYMCUJJU" data_type="3"><rect x="187" y="122" width="16" height="6" class="activeMouse"></rect><rect x="192" y="122" width="6" height="16" class="activeMouse"></rect></g><g data_id="CLXJLUBX" data_type="3"><rect x="187" y="67" width="16" height="6" class="activeMouse"></rect><rect x="192" y="67" width="6" height="16" class="activeMouse"></rect></g><g data_id="YVEELWAV" data_type="3"><rect x="602" y="122" width="16" height="6" class="activeMouse"></rect><rect x="607" y="122" width="6" height="16" class="activeMouse"></rect></g><g data_id="HDOQSGJI" data_type="3"><rect x="607" y="132" width="6" height="46" class="activeMouse"></rect><rect x="607" y="172" width="91" height="6" class="activeMouse"></rect></g></g><g data_id="153" data_type="2"><rect x="357" y="202" width="26" height="6" class="activeMouse" data_id="RPYLQAWS" data_type="3"></rect><rect x="432" y="317" width="16" height="6" class="activeMouse" data_id="XISOBBYU" data_type="3"></rect><rect x="432" y="357" width="16" height="6" class="activeMouse" data_id="QAUWTRAW" data_type="3"></rect><g data_id="YHJELWSY" data_type="3"><rect x="352" y="212" width="16" height="6" class="activeMouse"></rect><rect x="357" y="202" width="6" height="16" class="activeMouse"></rect></g><g data_id="FUKVFZNJ" data_type="3"><rect x="477" y="337" width="16" height="6" class="activeMouse"></rect><rect x="482" y="337" width="6" height="16" class="activeMouse"></rect></g><g data_id="CZVSKAQT" data_type="3"><rect x="477" y="297" width="16" height="6" class="activeMouse"></rect><rect x="482" y="297" width="6" height="16" class="activeMouse"></rect></g><g data_id="KQJAIKJH" data_type="3"><rect x="442" y="357" width="46" height="6" class="activeMouse"></rect><rect x="482" y="347" width="6" height="16" class="activeMouse"></rect></g><g data_id="JKHBVLLL" data_type="3"><rect x="482" y="307" width="6" height="16" class="activeMouse"></rect><rect x="442" y="317" width="46" height="6" class="activeMouse"></rect></g></g><rect x="585" y="355" width="49.9735107421875" height="10.600006103515625" class="activeMouse" data_id="BGYSMDWU" data_type="4"></rect><rect x="585" y="315" width="50" height="10.600006103515625" class="activeMouse" data_id="OOUEGAQY" data_type="4"></rect><rect x="585" y="280" width="46.98406982421875" height="10.600006103515625" class="activeMouse" data_id="NCWWPYJL" data_type="4"></rect><rect x="585" y="265" width="46.47711181640625" height="10.600006103515625" class="activeMouse" data_id="SFRABFCQ" data_type="4"></rect><rect x="500" y="170" width="50" height="10.600006103515625" class="activeMouse" data_id="OSRLCTRZ" data_type="4"></rect><rect x="335" y="355" width="45" height="10.600006103515625" class="activeMouse" data_id="WPGSTESH" data_type="4"></rect><rect x="335" y="315" width="45" height="10.600006103515625" class="activeMouse" data_id="XVWDLOXP" data_type="4"></rect><rect x="500" y="180" width="51.18597412109375" height="10.600006103515625" class="activeMouse" data_id="TFPBIZRL" data_type="4"></rect><rect x="500" y="190" width="55.40997314453125" height="10.600006103515625" class="activeMouse" data_id="QSBVBPAL" data_type="4"></rect></g><g id="sceneOverlay"><g data-owner="comment-panel"></g></g></g>
+<svg id="sch-document-viewer-comment-overlay" width="100%" height="100%" style="position: absolute; left: 0px; top: 0px; pointer-events: none; z-index: 0; overflow: visible;" data-v-app=""><defs><filter id="filter-comment-icon-full-d" x="4" y="5" width="40" height="40" filter-units="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset dy="1"></feOffset><feGaussianBlur std-deviation="2"></feGaussianBlur><feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.48 0"></feColorMatrix><feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend><feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend></filter></defs></svg></svg>
